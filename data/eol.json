@@ -1,0 +1,6113 @@
+{
+  "almalinux": [
+    {
+      "apiID": "almalinux",
+      "osReleaseID": "almalinux",
+      "cycle": "9",
+      "lts": {
+        "evaluated": false
+      },
+      "releaseDate": "2022-05-26",
+      "eol": {
+        "evaluated": true,
+        "until": "2032-05-31"
+      },
+      "latest": "9.4",
+      "latestReleaseDate": "2024-05-06",
+      "support": {
+        "evaluated": true,
+        "until": "2027-05-31"
+      },
+      "link": "https://almalinux.org/blog/2024-05-06-announcing-94-stable/"
+    },
+    {
+      "apiID": "almalinux",
+      "osReleaseID": "almalinux",
+      "cycle": "8",
+      "lts": {
+        "evaluated": false
+      },
+      "releaseDate": "2021-03-30",
+      "eol": {
+        "evaluated": true,
+        "until": "2029-03-01"
+      },
+      "latest": "8.10",
+      "latestReleaseDate": "2024-05-28",
+      "support": {
+        "evaluated": true,
+        "until": "2024-05-01"
+      },
+      "link": "https://almalinux.org/blog/2024-05-28-announcing-810-stable/"
+    }
+  ],
+  "alpine": [
+    {
+      "apiID": "alpine",
+      "osReleaseID": "alpine",
+      "cycle": "3.20",
+      "lts": {
+        "evaluated": false
+      },
+      "releaseDate": "2024-05-22",
+      "eol": {
+        "evaluated": true,
+        "until": "2026-04-01"
+      },
+      "latest": "3.20.3",
+      "latestReleaseDate": "2024-09-06",
+      "link": "https://alpinelinux.org/posts/Alpine-3.20.0-released.html"
+    },
+    {
+      "apiID": "alpine",
+      "osReleaseID": "alpine",
+      "cycle": "3.19",
+      "lts": {
+        "evaluated": false
+      },
+      "releaseDate": "2023-12-07",
+      "eol": {
+        "evaluated": true,
+        "until": "2025-11-01"
+      },
+      "latest": "3.19.4",
+      "latestReleaseDate": "2024-09-06",
+      "link": "https://alpinelinux.org/posts/Alpine-3.19.1-released.html"
+    },
+    {
+      "apiID": "alpine",
+      "osReleaseID": "alpine",
+      "cycle": "3.18",
+      "lts": {
+        "evaluated": false
+      },
+      "releaseDate": "2023-05-09",
+      "eol": {
+        "evaluated": true,
+        "until": "2025-05-09"
+      },
+      "latest": "3.18.9",
+      "latestReleaseDate": "2024-09-06",
+      "link": "https://alpinelinux.org/posts/Alpine-3.16.9-3.17.7-3.18.6-released.html"
+    },
+    {
+      "apiID": "alpine",
+      "osReleaseID": "alpine",
+      "cycle": "3.17",
+      "lts": {
+        "evaluated": false
+      },
+      "releaseDate": "2022-11-22",
+      "eol": {
+        "evaluated": true,
+        "until": "2024-11-22"
+      },
+      "latest": "3.17.10",
+      "latestReleaseDate": "2024-09-06",
+      "link": "https://alpinelinux.org/posts/Alpine-3.16.9-3.17.7-3.18.6-released.html"
+    },
+    {
+      "apiID": "alpine",
+      "osReleaseID": "alpine",
+      "cycle": "3.16",
+      "lts": {
+        "evaluated": false
+      },
+      "releaseDate": "2022-05-23",
+      "eol": {
+        "evaluated": true,
+        "until": "2024-05-23"
+      },
+      "latest": "3.16.9",
+      "latestReleaseDate": "2024-01-26",
+      "link": "https://alpinelinux.org/posts/Alpine-3.16.9-3.17.7-3.18.6-released.html"
+    },
+    {
+      "apiID": "alpine",
+      "osReleaseID": "alpine",
+      "cycle": "3.15",
+      "lts": {
+        "evaluated": false
+      },
+      "releaseDate": "2021-11-24",
+      "eol": {
+        "evaluated": true,
+        "until": "2023-11-01"
+      },
+      "latest": "3.15.11",
+      "latestReleaseDate": "2023-11-30",
+      "link": "https://alpinelinux.org/posts/Alpine-3.15.10-3.16.7-3.17.5-3.18.3-released.html"
+    },
+    {
+      "apiID": "alpine",
+      "osReleaseID": "alpine",
+      "cycle": "3.14",
+      "lts": {
+        "evaluated": false
+      },
+      "releaseDate": "2021-06-15",
+      "eol": {
+        "evaluated": true,
+        "until": "2023-05-01"
+      },
+      "latest": "3.14.10",
+      "latestReleaseDate": "2023-03-29",
+      "link": "https://alpinelinux.org/posts/Alpine-3.14.10-3.15.8-3.16.5-released.html"
+    },
+    {
+      "apiID": "alpine",
+      "osReleaseID": "alpine",
+      "cycle": "3.13",
+      "lts": {
+        "evaluated": false
+      },
+      "releaseDate": "2021-01-14",
+      "eol": {
+        "evaluated": true,
+        "until": "2022-11-01"
+      },
+      "latest": "3.13.12",
+      "latestReleaseDate": "2022-08-09",
+      "link": "https://alpinelinux.org/posts/Alpine-3.12.12-3.13.10-3.14.6-3.15.4-released.html"
+    },
+    {
+      "apiID": "alpine",
+      "osReleaseID": "alpine",
+      "cycle": "3.12",
+      "lts": {
+        "evaluated": false
+      },
+      "releaseDate": "2020-05-29",
+      "eol": {
+        "evaluated": true,
+        "until": "2022-05-01"
+      },
+      "latest": "3.12.12",
+      "latestReleaseDate": "2022-04-04",
+      "link": "https://alpinelinux.org/posts/Alpine-3.12.12-3.13.10-3.14.6-3.15.4-released.html"
+    },
+    {
+      "apiID": "alpine",
+      "osReleaseID": "alpine",
+      "cycle": "3.11",
+      "lts": {
+        "evaluated": false
+      },
+      "releaseDate": "2019-12-19",
+      "eol": {
+        "evaluated": true,
+        "until": "2021-11-01"
+      },
+      "latest": "3.11.13",
+      "latestReleaseDate": "2021-11-12",
+      "link": "https://alpinelinux.org/posts/Alpine-3.11.13-3.12.9-3.13.7-released.html"
+    },
+    {
+      "apiID": "alpine",
+      "osReleaseID": "alpine",
+      "cycle": "3.10",
+      "lts": {
+        "evaluated": false
+      },
+      "releaseDate": "2019-06-19",
+      "eol": {
+        "evaluated": true,
+        "until": "2021-05-01"
+      },
+      "latest": "3.10.9",
+      "latestReleaseDate": "2021-04-14",
+      "link": "https://alpinelinux.org/posts/Alpine-3.10.9-3.11.11-3.12.7-released.html"
+    },
+    {
+      "apiID": "alpine",
+      "osReleaseID": "alpine",
+      "cycle": "3.9",
+      "lts": {
+        "evaluated": false
+      },
+      "releaseDate": "2019-01-29",
+      "eol": {
+        "evaluated": true,
+        "until": "2020-11-01"
+      },
+      "latest": "3.9.6",
+      "latestReleaseDate": "2020-04-23",
+      "link": "https://alpinelinux.org/posts/Alpine-3.9.6-and-3.10.5-released.html"
+    },
+    {
+      "apiID": "alpine",
+      "osReleaseID": "alpine",
+      "cycle": "3.8",
+      "lts": {
+        "evaluated": false
+      },
+      "releaseDate": "2018-06-26",
+      "eol": {
+        "evaluated": true,
+        "until": "2020-05-01"
+      },
+      "latest": "3.8.5",
+      "latestReleaseDate": "2020-01-23",
+      "link": "https://git.alpinelinux.org/aports/log/?h=3.8-stable"
+    },
+    {
+      "apiID": "alpine",
+      "osReleaseID": "alpine",
+      "cycle": "3.7",
+      "lts": {
+        "evaluated": false
+      },
+      "releaseDate": "2017-11-30",
+      "eol": {
+        "evaluated": true,
+        "until": "2019-11-01"
+      },
+      "latest": "3.7.3",
+      "latestReleaseDate": "2019-03-06",
+      "link": "https://git.alpinelinux.org/aports/log/?h=3.7-stable"
+    }
+  ],
+  "amzn": [
+    {
+      "apiID": "amazon-linux",
+      "osReleaseID": "amzn",
+      "cycle": "2023",
+      "lts": {
+        "evaluated": false
+      },
+      "releaseDate": "2023-03-01",
+      "eol": {
+        "evaluated": true,
+        "until": "2028-03-15"
+      },
+      "latest": "2023.6.20241031.0",
+      "latestReleaseDate": "2024-11-13",
+      "support": {
+        "evaluated": true,
+        "until": "2025-03-15"
+      },
+      "link": "https://aws.amazon.com/about-aws/whats-new/2023/03/amazon-linux-2023/"
+    },
+    {
+      "apiID": "amazon-linux",
+      "osReleaseID": "amzn",
+      "cycle": "2",
+      "lts": {
+        "evaluated": false
+      },
+      "releaseDate": "2018-06-26",
+      "eol": {
+        "evaluated": true,
+        "until": "2025-06-30"
+      },
+      "latest": "2.0.20241031.0",
+      "latestReleaseDate": "2024-11-12",
+      "support": {
+        "evaluated": true,
+        "until": "2025-06-30"
+      },
+      "link": "https://aws.amazon.com/about-aws/whats-new/2018/06/announcing-amazon-linux-2-with-long-term-support/"
+    },
+    {
+      "apiID": "amazon-linux",
+      "osReleaseID": "amzn",
+      "cycle": "2018.03",
+      "lts": {
+        "evaluated": false
+      },
+      "releaseDate": "2018-04-25",
+      "eol": {
+        "evaluated": true,
+        "until": "2023-12-31"
+      },
+      "latest": "2018.03.0.20231218.0",
+      "latestReleaseDate": "2024-11-12",
+      "support": {
+        "evaluated": true,
+        "until": "2020-12-31"
+      },
+      "link": "https://aws.amazon.com/amazon-linux-ami/2018.03-release-notes/"
+    },
+    {
+      "apiID": "amazon-linux",
+      "osReleaseID": "amzn",
+      "cycle": "2017.09",
+      "lts": {
+        "evaluated": false
+      },
+      "releaseDate": "2017-11-03",
+      "eol": {
+        "evaluated": true,
+        "until": "2023-12-31"
+      },
+      "latest": "2017.09.1.20180409",
+      "latestReleaseDate": "2018-04-10",
+      "support": {
+        "evaluated": true,
+        "until": "2020-12-31"
+      },
+      "link": "https://aws.amazon.com/blogs/aws/now-available-amazon-linux-ami-2017-09/"
+    },
+    {
+      "apiID": "amazon-linux",
+      "osReleaseID": "amzn",
+      "cycle": "2017.03",
+      "lts": {
+        "evaluated": false
+      },
+      "releaseDate": "2017-04-07",
+      "eol": {
+        "evaluated": true,
+        "until": "2023-12-31"
+      },
+      "latest": "2017.03.1.20170812",
+      "latestReleaseDate": "2017-11-03",
+      "support": {
+        "evaluated": true,
+        "until": "2020-12-31"
+      },
+      "link": "https://aws.amazon.com/blogs/aws/amazon-inspector-update-assessment-reporting-proxy-support-and-more/"
+    },
+    {
+      "apiID": "amazon-linux",
+      "osReleaseID": "amzn",
+      "cycle": "2016.09",
+      "lts": {
+        "evaluated": false
+      },
+      "releaseDate": "2016-11-16",
+      "eol": {
+        "evaluated": true,
+        "until": "2023-12-31"
+      },
+      "latest": "2016.09.1.20161221",
+      "latestReleaseDate": "2017-11-03",
+      "support": {
+        "evaluated": true,
+        "until": "2020-12-31"
+      },
+      "link": "https://aws.amazon.com/blogs/aws/now-available-amazon-linux-ami-2016-09/"
+    },
+    {
+      "apiID": "amazon-linux",
+      "osReleaseID": "amzn",
+      "cycle": "2016.03",
+      "lts": {
+        "evaluated": false
+      },
+      "releaseDate": "2016-03-22",
+      "eol": {
+        "evaluated": true,
+        "until": "2023-12-31"
+      },
+      "latest": "2016.03",
+      "support": {
+        "evaluated": true,
+        "until": "2020-12-31"
+      },
+      "link": "https://aws.amazon.com/amazon-linux-ami/2016.03-release-notes/"
+    },
+    {
+      "apiID": "amazon-linux",
+      "osReleaseID": "amzn",
+      "cycle": "2015.09",
+      "lts": {
+        "evaluated": false
+      },
+      "releaseDate": "2015-09-22",
+      "eol": {
+        "evaluated": true,
+        "until": "2023-12-31"
+      },
+      "latest": "2015.09",
+      "support": {
+        "evaluated": true,
+        "until": "2020-12-31"
+      },
+      "link": "https://aws.amazon.com/blogs/aws/now-available-amazon-linux-ami-2015-09/"
+    },
+    {
+      "apiID": "amazon-linux",
+      "osReleaseID": "amzn",
+      "cycle": "2015.03",
+      "lts": {
+        "evaluated": false
+      },
+      "releaseDate": "2015-03-24",
+      "eol": {
+        "evaluated": true,
+        "until": "2023-12-31"
+      },
+      "latest": "2015.03",
+      "support": {
+        "evaluated": true,
+        "until": "2020-12-31"
+      },
+      "link": "https://aws.amazon.com/blogs/aws/now-available-amazon-linux-ami-2015-03/"
+    },
+    {
+      "apiID": "amazon-linux",
+      "osReleaseID": "amzn",
+      "cycle": "2014.09",
+      "lts": {
+        "evaluated": false
+      },
+      "releaseDate": "2014-09-23",
+      "eol": {
+        "evaluated": true,
+        "until": "2023-12-31"
+      },
+      "latest": "2014.09",
+      "support": {
+        "evaluated": true,
+        "until": "2020-12-31"
+      },
+      "link": "https://aws.amazon.com/blogs/aws/amazon-linux-ami-2014-09/"
+    },
+    {
+      "apiID": "amazon-linux",
+      "osReleaseID": "amzn",
+      "cycle": "2014.03",
+      "lts": {
+        "evaluated": false
+      },
+      "releaseDate": "2014-03-27",
+      "eol": {
+        "evaluated": true,
+        "until": "2023-12-31"
+      },
+      "latest": "2014.03",
+      "support": {
+        "evaluated": true,
+        "until": "2020-12-31"
+      },
+      "link": "https://aws.amazon.com/blogs/aws/amazon-linux-ami-201403-is-now-available/"
+    },
+    {
+      "apiID": "amazon-linux",
+      "osReleaseID": "amzn",
+      "cycle": "2013.09",
+      "lts": {
+        "evaluated": false
+      },
+      "releaseDate": "2013-09-30",
+      "eol": {
+        "evaluated": true,
+        "until": "2023-12-31"
+      },
+      "latest": "2013.09",
+      "support": {
+        "evaluated": true,
+        "until": "2020-12-31"
+      },
+      "link": "https://aws.amazon.com/blogs/aws/amazon-linux-ami-201309-now-available/"
+    },
+    {
+      "apiID": "amazon-linux",
+      "osReleaseID": "amzn",
+      "cycle": "2013.03",
+      "lts": {
+        "evaluated": false
+      },
+      "releaseDate": "2013-03-27",
+      "eol": {
+        "evaluated": true,
+        "until": "2023-12-31"
+      },
+      "latest": "2013.03",
+      "support": {
+        "evaluated": true,
+        "until": "2020-12-31"
+      },
+      "link": "https://aws.amazon.com/blogs/aws/amazon-linux-ami-201303-now-available/"
+    },
+    {
+      "apiID": "amazon-linux",
+      "osReleaseID": "amzn",
+      "cycle": "2012.09",
+      "lts": {
+        "evaluated": false
+      },
+      "releaseDate": "2012-10-11",
+      "eol": {
+        "evaluated": true,
+        "until": "2023-12-31"
+      },
+      "latest": "2012.09",
+      "support": {
+        "evaluated": true,
+        "until": "2020-12-31"
+      },
+      "link": "https://aws.amazon.com/blogs/aws/amazon-linux-ami-201209-now-available/"
+    },
+    {
+      "apiID": "amazon-linux",
+      "osReleaseID": "amzn",
+      "cycle": "2012.03",
+      "lts": {
+        "evaluated": false
+      },
+      "releaseDate": "2012-03-28",
+      "eol": {
+        "evaluated": true,
+        "until": "2023-12-31"
+      },
+      "latest": "2012.03",
+      "support": {
+        "evaluated": true,
+        "until": "2020-12-31"
+      },
+      "link": "https://aws.amazon.com/blogs/aws/updated-amazon-linux-ami-201203-now-available/"
+    },
+    {
+      "apiID": "amazon-linux",
+      "osReleaseID": "amzn",
+      "cycle": "2011.09",
+      "lts": {
+        "evaluated": false
+      },
+      "releaseDate": "2011-09-26",
+      "eol": {
+        "evaluated": true,
+        "until": "2023-12-31"
+      },
+      "latest": "2011.09",
+      "support": {
+        "evaluated": true,
+        "until": "2020-12-31"
+      },
+      "link": "https://aws.amazon.com/blogs/aws/amazon-linux-ami-production-status-new-features/"
+    },
+    {
+      "apiID": "amazon-linux",
+      "osReleaseID": "amzn",
+      "cycle": "2010.11",
+      "lts": {
+        "evaluated": false
+      },
+      "releaseDate": "2010-12-01",
+      "eol": {
+        "evaluated": true,
+        "until": "2023-12-31"
+      },
+      "latest": "2010.11",
+      "support": {
+        "evaluated": true,
+        "until": "2020-12-31"
+      },
+      "link": "https://aws.amazon.com/blogs/aws/amazon-linux-ami-2010111-released/"
+    }
+  ],
+  "centos": [
+    {
+      "apiID": "centos",
+      "osReleaseID": "centos",
+      "cycle": "8",
+      "lts": {
+        "evaluated": false
+      },
+      "releaseDate": "2019-09-24",
+      "eol": {
+        "evaluated": true,
+        "until": "2021-12-31"
+      },
+      "latest": "8 (2111)",
+      "support": {
+        "evaluated": true,
+        "until": "2021-12-31"
+      },
+      "link": "https://web.archive.org/web/20230711113909/https://wiki.centos.org/Manuals/ReleaseNotes/CentOS8.2111"
+    },
+    {
+      "apiID": "centos",
+      "osReleaseID": "centos",
+      "cycle": "7",
+      "lts": {
+        "evaluated": false
+      },
+      "releaseDate": "2014-07-07",
+      "eol": {
+        "evaluated": true,
+        "until": "2024-06-30"
+      },
+      "latest": "7 (2009)",
+      "support": {
+        "evaluated": true,
+        "until": "2020-08-06"
+      },
+      "link": "https://web.archive.org/web/20230711113909/https://wiki.centos.org/Manuals/ReleaseNotes/CentOS7.2009"
+    },
+    {
+      "apiID": "centos",
+      "osReleaseID": "centos",
+      "cycle": "6",
+      "lts": {
+        "evaluated": false
+      },
+      "releaseDate": "2011-07-10",
+      "eol": {
+        "evaluated": true,
+        "until": "2020-11-30"
+      },
+      "latest": "6.10",
+      "support": {
+        "evaluated": true,
+        "until": "2017-05-10"
+      },
+      "link": "https://web.archive.org/web/20230711113909/https://wiki.centos.org/Manuals/ReleaseNotes/CentOS6.10"
+    },
+    {
+      "apiID": "centos",
+      "osReleaseID": "centos",
+      "cycle": "5",
+      "lts": {
+        "evaluated": false
+      },
+      "releaseDate": "2007-04-12",
+      "eol": {
+        "evaluated": true,
+        "until": "2017-03-31"
+      },
+      "latest": "5.11",
+      "support": {
+        "evaluated": true,
+        "until": "2014-01-31"
+      },
+      "link": "https://web.archive.org/web/20230711113909/https://wiki.centos.org/Manuals/ReleaseNotes/CentOS5.11"
+    }
+  ],
+  "debian": [
+    {
+      "apiID": "debian",
+      "osReleaseID": "debian",
+      "cycle": "12",
+      "codename": "Bookworm",
+      "lts": {
+        "evaluated": false
+      },
+      "releaseDate": "2023-06-10",
+      "eol": {
+        "evaluated": true,
+        "until": "2026-06-10"
+      },
+      "latest": "12.8",
+      "latestReleaseDate": "2024-11-09",
+      "extendedSupport": {
+        "evaluated": true,
+        "until": "2028-06-10"
+      },
+      "link": "https://www.debian.org/News/2024/20240629"
+    },
+    {
+      "apiID": "debian",
+      "osReleaseID": "debian",
+      "cycle": "11",
+      "codename": "Bullseye",
+      "lts": {
+        "evaluated": false
+      },
+      "releaseDate": "2021-08-14",
+      "eol": {
+        "evaluated": true,
+        "until": "2024-08-14"
+      },
+      "latest": "11.11",
+      "latestReleaseDate": "2024-08-31",
+      "extendedSupport": {
+        "evaluated": true,
+        "until": "2026-08-31"
+      },
+      "link": "https://lists.debian.org/debian-release/2024/06/msg00700.html"
+    },
+    {
+      "apiID": "debian",
+      "osReleaseID": "debian",
+      "cycle": "10",
+      "codename": "Buster",
+      "lts": {
+        "evaluated": false
+      },
+      "releaseDate": "2019-07-06",
+      "eol": {
+        "evaluated": true,
+        "until": "2022-09-10"
+      },
+      "latest": "10.13",
+      "latestReleaseDate": "2022-09-10",
+      "extendedSupport": {
+        "evaluated": true,
+        "until": "2024-06-30"
+      },
+      "link": "https://www.debian.org/News/2022/20220910"
+    },
+    {
+      "apiID": "debian",
+      "osReleaseID": "debian",
+      "cycle": "9",
+      "codename": "Stretch",
+      "lts": {
+        "evaluated": false
+      },
+      "releaseDate": "2017-06-17",
+      "eol": {
+        "evaluated": true,
+        "until": "2020-07-18"
+      },
+      "latest": "9.13",
+      "latestReleaseDate": "2020-07-18",
+      "extendedSupport": {
+        "evaluated": true,
+        "until": "2022-07-01"
+      },
+      "link": "https://www.debian.org/News/2020/20200718"
+    },
+    {
+      "apiID": "debian",
+      "osReleaseID": "debian",
+      "cycle": "8",
+      "codename": "Jessie",
+      "lts": {
+        "evaluated": false
+      },
+      "releaseDate": "2015-04-25",
+      "eol": {
+        "evaluated": true,
+        "until": "2018-06-17"
+      },
+      "latest": "8.11",
+      "latestReleaseDate": "2018-06-23",
+      "extendedSupport": {
+        "evaluated": true,
+        "until": "2020-06-30"
+      },
+      "link": "https://www.debian.org/News/2018/20180623"
+    },
+    {
+      "apiID": "debian",
+      "osReleaseID": "debian",
+      "cycle": "7",
+      "codename": "Wheezy",
+      "lts": {
+        "evaluated": false
+      },
+      "releaseDate": "2013-05-04",
+      "eol": {
+        "evaluated": true,
+        "until": "2016-04-25"
+      },
+      "latest": "7.11",
+      "latestReleaseDate": "2016-06-04",
+      "extendedSupport": {
+        "evaluated": true,
+        "until": "2018-05-31"
+      },
+      "link": "https://www.debian.org/News/2016/2016060402"
+    },
+    {
+      "apiID": "debian",
+      "osReleaseID": "debian",
+      "cycle": "6",
+      "codename": "Squeeze",
+      "lts": {
+        "evaluated": false
+      },
+      "releaseDate": "2011-02-06",
+      "eol": {
+        "evaluated": true,
+        "until": "2014-05-31"
+      },
+      "latest": "6.0.10",
+      "latestReleaseDate": "2014-07-19",
+      "extendedSupport": {
+        "evaluated": true,
+        "until": "2016-02-29"
+      },
+      "link": "https://www.debian.org/News/2014/20140719"
+    },
+    {
+      "apiID": "debian",
+      "osReleaseID": "debian",
+      "cycle": "5",
+      "codename": "Lenny",
+      "lts": {
+        "evaluated": false
+      },
+      "releaseDate": "2009-02-14",
+      "eol": {
+        "evaluated": true,
+        "until": "2012-02-06"
+      },
+      "latest": "5.0.10",
+      "latestReleaseDate": "2012-03-10",
+      "extendedSupport": {
+        "evaluated": true,
+        "until": "2012-02-06"
+      },
+      "link": "https://www.debian.org/News/2012/20120310"
+    },
+    {
+      "apiID": "debian",
+      "osReleaseID": "debian",
+      "cycle": "4",
+      "codename": "Etch",
+      "lts": {
+        "evaluated": false
+      },
+      "releaseDate": "2007-04-08",
+      "eol": {
+        "evaluated": true,
+        "until": "2010-02-15"
+      },
+      "latest": "4.0r9",
+      "latestReleaseDate": "2010-05-22",
+      "extendedSupport": {
+        "evaluated": true,
+        "until": "2010-02-15"
+      },
+      "link": "https://www.debian.org/News/2010/20100522"
+    },
+    {
+      "apiID": "debian",
+      "osReleaseID": "debian",
+      "cycle": "3.1",
+      "codename": "Sarge",
+      "lts": {
+        "evaluated": false
+      },
+      "releaseDate": "2005-06-06",
+      "eol": {
+        "evaluated": true,
+        "until": "2008-03-31"
+      },
+      "latest": "3.1r8",
+      "latestReleaseDate": "2008-04-13",
+      "extendedSupport": {
+        "evaluated": true,
+        "until": "2008-03-31"
+      },
+      "link": "https://www.debian.org/News/2008/20080413"
+    },
+    {
+      "apiID": "debian",
+      "osReleaseID": "debian",
+      "cycle": "3.0",
+      "codename": "Woody",
+      "lts": {
+        "evaluated": false
+      },
+      "releaseDate": "2002-07-19",
+      "eol": {
+        "evaluated": true,
+        "until": "2006-06-30"
+      },
+      "latest": "3.0r6",
+      "latestReleaseDate": "2005-06-02",
+      "extendedSupport": {
+        "evaluated": true,
+        "until": "2006-06-30"
+      },
+      "link": "https://www.debian.org/News/2005/20050602"
+    },
+    {
+      "apiID": "debian",
+      "osReleaseID": "debian",
+      "cycle": "2.2",
+      "codename": "Potato",
+      "lts": {
+        "evaluated": false
+      },
+      "releaseDate": "2000-08-15",
+      "eol": {
+        "evaluated": true,
+        "until": "2003-06-30"
+      },
+      "latest": "2.2r7",
+      "latestReleaseDate": "2002-07-13",
+      "extendedSupport": {
+        "evaluated": true,
+        "until": "2003-06-30"
+      },
+      "link": "https://www.debian.org/News/2002/20020713"
+    },
+    {
+      "apiID": "debian",
+      "osReleaseID": "debian",
+      "cycle": "2.1",
+      "codename": "Slink",
+      "lts": {
+        "evaluated": false
+      },
+      "releaseDate": "1999-03-09",
+      "eol": {
+        "evaluated": true,
+        "until": "2000-09-30"
+      },
+      "latest": "2.1r5",
+      "latestReleaseDate": "2000-02-16",
+      "extendedSupport": {
+        "evaluated": true,
+        "until": "2000-10-30"
+      },
+      "link": "https://www.debian.org/News/2000/20000216"
+    },
+    {
+      "apiID": "debian",
+      "osReleaseID": "debian",
+      "cycle": "2.0",
+      "codename": "Hamm",
+      "lts": {
+        "evaluated": false
+      },
+      "releaseDate": "1998-07-24",
+      "eol": {
+        "evaluated": true,
+        "until": "1999-02-15"
+      },
+      "latest": "2.0r5",
+      "latestReleaseDate": "1999-02-17",
+      "extendedSupport": {
+        "evaluated": true,
+        "until": "1999-02-15"
+      },
+      "link": "https://lists.debian.org/debian-announce/1999/msg00001.html"
+    },
+    {
+      "apiID": "debian",
+      "osReleaseID": "debian",
+      "cycle": "1.3",
+      "codename": "Bo",
+      "lts": {
+        "evaluated": false
+      },
+      "releaseDate": "1997-07-02",
+      "eol": {
+        "evaluated": true,
+        "until": "1998-12-08"
+      },
+      "latest": "1.3.1 r.6",
+      "latestReleaseDate": "1998-02-03",
+      "extendedSupport": {
+        "evaluated": true,
+        "until": "1998-12-08"
+      },
+      "link": "https://www.debian.org/News/1998/19980203c"
+    },
+    {
+      "apiID": "debian",
+      "osReleaseID": "debian",
+      "cycle": "1.2",
+      "codename": "Rex",
+      "lts": {
+        "evaluated": false
+      },
+      "releaseDate": "1996-12-12",
+      "eol": {
+        "evaluated": true,
+        "until": "1997-10-23"
+      },
+      "latest": "1.2",
+      "latestReleaseDate": "1996-12-12",
+      "extendedSupport": {
+        "evaluated": true,
+        "until": "1997-10-23"
+      },
+      "link": "https://lists.debian.org/debian-announce/1996/msg00026.html"
+    },
+    {
+      "apiID": "debian",
+      "osReleaseID": "debian",
+      "cycle": "1.1",
+      "codename": "Buzz",
+      "lts": {
+        "evaluated": false
+      },
+      "releaseDate": "1996-06-17",
+      "eol": {
+        "evaluated": true,
+        "until": "1996-12-12"
+      },
+      "latest": "1.1",
+      "latestReleaseDate": "1996-06-17",
+      "extendedSupport": {
+        "evaluated": true,
+        "until": "1996-12-12"
+      },
+      "link": "https://lists.debian.org/debian-announce/1996/msg00021.html"
+    }
+  ],
+  "devuan": [
+    {
+      "apiID": "devuan",
+      "osReleaseID": "devuan",
+      "cycle": "5",
+      "codename": "Daedalus",
+      "lts": {
+        "evaluated": true,
+        "until": "2026-06-10"
+      },
+      "releaseDate": "2023-08-15",
+      "eol": {
+        "evaluated": true,
+        "until": "2028-06-10"
+      },
+      "latest": "5.0.0",
+      "latestReleaseDate": "2023-08-15",
+      "link": "https://www.devuan.org/os/announce/daedalus-release-announce-2023-08-14"
+    },
+    {
+      "apiID": "devuan",
+      "osReleaseID": "devuan",
+      "cycle": "4",
+      "codename": "Chimaera",
+      "lts": {
+        "evaluated": true,
+        "until": "2024-07-01"
+      },
+      "releaseDate": "2021-10-14",
+      "eol": {
+        "evaluated": true,
+        "until": "2026-08-15"
+      },
+      "latest": "4.0.0",
+      "latestReleaseDate": "2021-10-14",
+      "link": "https://www.devuan.org/os/announce/chimaera-release-announce-2021-10-14"
+    },
+    {
+      "apiID": "devuan",
+      "osReleaseID": "devuan",
+      "cycle": "3",
+      "codename": "Beowulf",
+      "lts": {
+        "evaluated": true,
+        "until": "2022-07-01"
+      },
+      "releaseDate": "2020-06-02",
+      "eol": {
+        "evaluated": true,
+        "until": "2024-06-01"
+      },
+      "latest": "3.1.0",
+      "latestReleaseDate": "2021-02-15",
+      "link": "https://www.devuan.org/os/announce/beowulf-point-release-announce-021421"
+    },
+    {
+      "apiID": "devuan",
+      "osReleaseID": "devuan",
+      "cycle": "2",
+      "codename": "ASCII",
+      "lts": {
+        "evaluated": true,
+        "until": "2020-06-06"
+      },
+      "releaseDate": "2018-06-09",
+      "eol": {
+        "evaluated": true,
+        "until": "2022-06-30"
+      },
+      "latest": "2.1",
+      "latestReleaseDate": "2019-11-25",
+      "link": "https://www.devuan.org/os/announce/ascii-point-release-announce-112119"
+    },
+    {
+      "apiID": "devuan",
+      "osReleaseID": "devuan",
+      "cycle": "1",
+      "codename": "Jessie",
+      "lts": {
+        "evaluated": true,
+        "until": "2018-06-17"
+      },
+      "releaseDate": "2017-05-25",
+      "eol": {
+        "evaluated": true,
+        "until": "2020-06-30"
+      },
+      "latest": "1.0.0",
+      "latestReleaseDate": "2017-05-25",
+      "link": "https://www.devuan.org/os/announce/stable-jessie-announce-052517.html"
+    }
+  ],
+  "eurolinux": [
+    {
+      "apiID": "eurolinux",
+      "osReleaseID": "eurolinux",
+      "cycle": "9",
+      "lts": {
+        "evaluated": false
+      },
+      "releaseDate": "2022-06-14",
+      "eol": {
+        "evaluated": true,
+        "until": "2032-06-30"
+      },
+      "latest": "9.4",
+      "latestReleaseDate": "2024-05-10",
+      "support": {
+        "evaluated": true,
+        "until": "2032-05-31"
+      }
+    },
+    {
+      "apiID": "eurolinux",
+      "osReleaseID": "eurolinux",
+      "cycle": "8",
+      "lts": {
+        "evaluated": false
+      },
+      "releaseDate": "2021-07-12",
+      "eol": {
+        "evaluated": true,
+        "until": "2029-06-30"
+      },
+      "latest": "8.10",
+      "latestReleaseDate": "2024-05-27",
+      "support": {
+        "evaluated": true,
+        "until": "2029-03-01"
+      }
+    },
+    {
+      "apiID": "eurolinux",
+      "osReleaseID": "eurolinux",
+      "cycle": "7",
+      "lts": {
+        "evaluated": false
+      },
+      "releaseDate": "2020-11-25",
+      "eol": {
+        "evaluated": true,
+        "until": "2024-07-31"
+      },
+      "latest": "7.9",
+      "latestReleaseDate": "2020-11-25",
+      "support": {
+        "evaluated": true,
+        "until": "2024-07-31"
+      }
+    },
+    {
+      "apiID": "eurolinux",
+      "osReleaseID": "eurolinux",
+      "cycle": "6",
+      "lts": {
+        "evaluated": false
+      },
+      "releaseDate": "2015-02-16",
+      "eol": {
+        "evaluated": true,
+        "until": "2020-12-31"
+      },
+      "latest": "6.10",
+      "latestReleaseDate": "2018-07-25",
+      "support": {
+        "evaluated": true,
+        "until": "2020-12-31"
+      }
+    }
+  ],
+  "fedora": [
+    {
+      "apiID": "fedora",
+      "osReleaseID": "fedora",
+      "cycle": "41",
+      "lts": {
+        "evaluated": false
+      },
+      "releaseDate": "2024-10-29",
+      "eol": {
+        "evaluated": true,
+        "until": "2025-11-19"
+      },
+      "latest": "41",
+      "latestReleaseDate": "2024-10-29"
+    },
+    {
+      "apiID": "fedora",
+      "osReleaseID": "fedora",
+      "cycle": "40",
+      "lts": {
+        "evaluated": false
+      },
+      "releaseDate": "2024-04-23",
+      "eol": {
+        "evaluated": true,
+        "until": "2025-05-28"
+      },
+      "latest": "40",
+      "latestReleaseDate": "2024-04-23"
+    },
+    {
+      "apiID": "fedora",
+      "osReleaseID": "fedora",
+      "cycle": "39",
+      "lts": {
+        "evaluated": false
+      },
+      "releaseDate": "2023-10-24",
+      "eol": {
+        "evaluated": true,
+        "until": "2024-11-26"
+      },
+      "latest": "39",
+      "latestReleaseDate": "2023-11-07"
+    },
+    {
+      "apiID": "fedora",
+      "osReleaseID": "fedora",
+      "cycle": "38",
+      "lts": {
+        "evaluated": false
+      },
+      "releaseDate": "2023-04-18",
+      "eol": {
+        "evaluated": true,
+        "until": "2024-05-21"
+      },
+      "latest": "38",
+      "latestReleaseDate": "2023-04-18"
+    },
+    {
+      "apiID": "fedora",
+      "osReleaseID": "fedora",
+      "cycle": "37",
+      "lts": {
+        "evaluated": false
+      },
+      "releaseDate": "2022-10-25",
+      "eol": {
+        "evaluated": true,
+        "until": "2023-12-05"
+      },
+      "latest": "37",
+      "latestReleaseDate": "2022-11-15"
+    },
+    {
+      "apiID": "fedora",
+      "osReleaseID": "fedora",
+      "cycle": "36",
+      "lts": {
+        "evaluated": false
+      },
+      "releaseDate": "2022-05-10",
+      "eol": {
+        "evaluated": true,
+        "until": "2023-05-16"
+      },
+      "latest": "36",
+      "latestReleaseDate": "2022-05-10"
+    },
+    {
+      "apiID": "fedora",
+      "osReleaseID": "fedora",
+      "cycle": "35",
+      "lts": {
+        "evaluated": false
+      },
+      "releaseDate": "2021-11-02",
+      "eol": {
+        "evaluated": true,
+        "until": "2022-12-13"
+      },
+      "latest": "35",
+      "latestReleaseDate": "2021-11-02"
+    },
+    {
+      "apiID": "fedora",
+      "osReleaseID": "fedora",
+      "cycle": "34",
+      "lts": {
+        "evaluated": false
+      },
+      "releaseDate": "2021-04-27",
+      "eol": {
+        "evaluated": true,
+        "until": "2022-06-07"
+      },
+      "latest": "34",
+      "latestReleaseDate": "2021-04-27"
+    },
+    {
+      "apiID": "fedora",
+      "osReleaseID": "fedora",
+      "cycle": "33",
+      "lts": {
+        "evaluated": false
+      },
+      "releaseDate": "2020-10-27",
+      "eol": {
+        "evaluated": true,
+        "until": "2021-11-30"
+      },
+      "latest": "33",
+      "latestReleaseDate": "2020-10-27"
+    },
+    {
+      "apiID": "fedora",
+      "osReleaseID": "fedora",
+      "cycle": "32",
+      "lts": {
+        "evaluated": false
+      },
+      "releaseDate": "2020-04-28",
+      "eol": {
+        "evaluated": true,
+        "until": "2021-05-25"
+      },
+      "latest": "32",
+      "latestReleaseDate": "2020-04-28"
+    },
+    {
+      "apiID": "fedora",
+      "osReleaseID": "fedora",
+      "cycle": "31",
+      "lts": {
+        "evaluated": false
+      },
+      "releaseDate": "2019-10-29",
+      "eol": {
+        "evaluated": true,
+        "until": "2020-11-30"
+      },
+      "latest": "31",
+      "latestReleaseDate": "2019-10-29"
+    },
+    {
+      "apiID": "fedora",
+      "osReleaseID": "fedora",
+      "cycle": "30",
+      "lts": {
+        "evaluated": false
+      },
+      "releaseDate": "2019-04-30",
+      "eol": {
+        "evaluated": true,
+        "until": "2020-05-26"
+      },
+      "latest": "30",
+      "latestReleaseDate": "2019-04-30"
+    },
+    {
+      "apiID": "fedora",
+      "osReleaseID": "fedora",
+      "cycle": "29",
+      "lts": {
+        "evaluated": false
+      },
+      "releaseDate": "2018-10-30",
+      "eol": {
+        "evaluated": true,
+        "until": "2019-11-26"
+      },
+      "latest": "29",
+      "latestReleaseDate": "2018-10-30"
+    },
+    {
+      "apiID": "fedora",
+      "osReleaseID": "fedora",
+      "cycle": "28",
+      "lts": {
+        "evaluated": false
+      },
+      "releaseDate": "2018-05-01",
+      "eol": {
+        "evaluated": true,
+        "until": "2019-05-28"
+      },
+      "latest": "28",
+      "latestReleaseDate": "2018-05-01"
+    }
+  ],
+  "freebsd": [
+    {
+      "apiID": "freebsd",
+      "osReleaseID": "freebsd",
+      "cycle": "releng/14.1",
+      "lts": {
+        "evaluated": false
+      },
+      "releaseDate": "2024-06-04",
+      "eol": {
+        "evaluated": true,
+        "until": "2025-03-31"
+      }
+    },
+    {
+      "apiID": "freebsd",
+      "osReleaseID": "freebsd",
+      "cycle": "releng/13.3",
+      "lts": {
+        "evaluated": false
+      },
+      "releaseDate": "2024-03-05",
+      "eol": {
+        "evaluated": true,
+        "until": "2024-12-31"
+      }
+    },
+    {
+      "apiID": "freebsd",
+      "osReleaseID": "freebsd",
+      "cycle": "releng/14.0",
+      "lts": {
+        "evaluated": false
+      },
+      "releaseDate": "2023-11-21",
+      "eol": {
+        "evaluated": true,
+        "until": "2024-09-30"
+      }
+    },
+    {
+      "apiID": "freebsd",
+      "osReleaseID": "freebsd",
+      "cycle": "stable/14",
+      "lts": {
+        "evaluated": false
+      },
+      "releaseDate": "2023-11-21",
+      "eol": {
+        "evaluated": true,
+        "until": "2028-11-30"
+      }
+    },
+    {
+      "apiID": "freebsd",
+      "osReleaseID": "freebsd",
+      "cycle": "releng/13.2",
+      "lts": {
+        "evaluated": false
+      },
+      "releaseDate": "2023-04-11",
+      "eol": {
+        "evaluated": true,
+        "until": "2024-06-30"
+      }
+    },
+    {
+      "apiID": "freebsd",
+      "osReleaseID": "freebsd",
+      "cycle": "releng/12.4",
+      "lts": {
+        "evaluated": false
+      },
+      "releaseDate": "2022-12-05",
+      "eol": {
+        "evaluated": true,
+        "until": "2023-12-31"
+      }
+    },
+    {
+      "apiID": "freebsd",
+      "osReleaseID": "freebsd",
+      "cycle": "releng/13.1",
+      "lts": {
+        "evaluated": false
+      },
+      "releaseDate": "2022-05-16",
+      "eol": {
+        "evaluated": true,
+        "until": "2023-07-31"
+      }
+    },
+    {
+      "apiID": "freebsd",
+      "osReleaseID": "freebsd",
+      "cycle": "releng/12.3",
+      "lts": {
+        "evaluated": false
+      },
+      "releaseDate": "2021-12-07",
+      "eol": {
+        "evaluated": true,
+        "until": "2023-03-05"
+      }
+    },
+    {
+      "apiID": "freebsd",
+      "osReleaseID": "freebsd",
+      "cycle": "releng/13.0",
+      "lts": {
+        "evaluated": false
+      },
+      "releaseDate": "2021-04-13",
+      "eol": {
+        "evaluated": true,
+        "until": "2022-08-31"
+      }
+    },
+    {
+      "apiID": "freebsd",
+      "osReleaseID": "freebsd",
+      "cycle": "stable/13",
+      "lts": {
+        "evaluated": false
+      },
+      "releaseDate": "2021-04-13",
+      "eol": {
+        "evaluated": true,
+        "until": "2026-04-30"
+      }
+    },
+    {
+      "apiID": "freebsd",
+      "osReleaseID": "freebsd",
+      "cycle": "releng/12.2",
+      "lts": {
+        "evaluated": false
+      },
+      "releaseDate": "2020-10-27",
+      "eol": {
+        "evaluated": true,
+        "until": "2022-03-31"
+      }
+    },
+    {
+      "apiID": "freebsd",
+      "osReleaseID": "freebsd",
+      "cycle": "releng/11.4",
+      "lts": {
+        "evaluated": false
+      },
+      "releaseDate": "2020-06-16",
+      "eol": {
+        "evaluated": true,
+        "until": "2021-09-30"
+      }
+    },
+    {
+      "apiID": "freebsd",
+      "osReleaseID": "freebsd",
+      "cycle": "releng/12.1",
+      "lts": {
+        "evaluated": false
+      },
+      "releaseDate": "2019-11-04",
+      "eol": {
+        "evaluated": true,
+        "until": "2021-01-31"
+      }
+    },
+    {
+      "apiID": "freebsd",
+      "osReleaseID": "freebsd",
+      "cycle": "releng/12.0",
+      "lts": {
+        "evaluated": false
+      },
+      "releaseDate": "2018-12-11",
+      "eol": {
+        "evaluated": true,
+        "until": "2020-02-04"
+      }
+    },
+    {
+      "apiID": "freebsd",
+      "osReleaseID": "freebsd",
+      "cycle": "stable/12",
+      "lts": {
+        "evaluated": false
+      },
+      "releaseDate": "2018-12-11",
+      "eol": {
+        "evaluated": true,
+        "until": "2023-12-31"
+      }
+    },
+    {
+      "apiID": "freebsd",
+      "osReleaseID": "freebsd",
+      "cycle": "releng/10.4",
+      "lts": {
+        "evaluated": false
+      },
+      "releaseDate": "2017-10-03",
+      "eol": {
+        "evaluated": true,
+        "until": "2018-10-31"
+      }
+    },
+    {
+      "apiID": "freebsd",
+      "osReleaseID": "freebsd",
+      "cycle": "stable/11",
+      "lts": {
+        "evaluated": false
+      },
+      "releaseDate": "2016-10-10",
+      "eol": {
+        "evaluated": true,
+        "until": "2021-09-30"
+      }
+    },
+    {
+      "apiID": "freebsd",
+      "osReleaseID": "freebsd",
+      "cycle": "releng/10.3",
+      "lts": {
+        "evaluated": false
+      },
+      "releaseDate": "2016-04-04",
+      "eol": {
+        "evaluated": true,
+        "until": "2018-04-30"
+      }
+    },
+    {
+      "apiID": "freebsd",
+      "osReleaseID": "freebsd",
+      "cycle": "releng/10.2",
+      "lts": {
+        "evaluated": false
+      },
+      "releaseDate": "2015-08-13",
+      "eol": {
+        "evaluated": true,
+        "until": "2016-12-31"
+      }
+    },
+    {
+      "apiID": "freebsd",
+      "osReleaseID": "freebsd",
+      "cycle": "releng/10.1",
+      "lts": {
+        "evaluated": false
+      },
+      "releaseDate": "2014-11-14",
+      "eol": {
+        "evaluated": true,
+        "until": "2016-12-31"
+      }
+    },
+    {
+      "apiID": "freebsd",
+      "osReleaseID": "freebsd",
+      "cycle": "releng/9.3",
+      "lts": {
+        "evaluated": false
+      },
+      "releaseDate": "2014-07-16",
+      "eol": {
+        "evaluated": true,
+        "until": "2016-12-31"
+      }
+    },
+    {
+      "apiID": "freebsd",
+      "osReleaseID": "freebsd",
+      "cycle": "releng/10.0",
+      "lts": {
+        "evaluated": false
+      },
+      "releaseDate": "2014-01-20",
+      "eol": {
+        "evaluated": true,
+        "until": "2015-02-28"
+      }
+    },
+    {
+      "apiID": "freebsd",
+      "osReleaseID": "freebsd",
+      "cycle": "stable/10",
+      "lts": {
+        "evaluated": false
+      },
+      "releaseDate": "2014-01-20",
+      "eol": {
+        "evaluated": true,
+        "until": "2018-10-31"
+      }
+    },
+    {
+      "apiID": "freebsd",
+      "osReleaseID": "freebsd",
+      "cycle": "releng/9.2",
+      "lts": {
+        "evaluated": false
+      },
+      "releaseDate": "2013-09-30",
+      "eol": {
+        "evaluated": true,
+        "until": "2014-12-31"
+      }
+    },
+    {
+      "apiID": "freebsd",
+      "osReleaseID": "freebsd",
+      "cycle": "releng/8.4",
+      "lts": {
+        "evaluated": false
+      },
+      "releaseDate": "2013-06-09",
+      "eol": {
+        "evaluated": true,
+        "until": "2015-08-01"
+      }
+    },
+    {
+      "apiID": "freebsd",
+      "osReleaseID": "freebsd",
+      "cycle": "releng/9.1",
+      "lts": {
+        "evaluated": false
+      },
+      "releaseDate": "2012-12-30",
+      "eol": {
+        "evaluated": true,
+        "until": "2014-12-31"
+      }
+    },
+    {
+      "apiID": "freebsd",
+      "osReleaseID": "freebsd",
+      "cycle": "releng/8.3",
+      "lts": {
+        "evaluated": false
+      },
+      "releaseDate": "2012-04-18",
+      "eol": {
+        "evaluated": true,
+        "until": "2014-04-30"
+      }
+    },
+    {
+      "apiID": "freebsd",
+      "osReleaseID": "freebsd",
+      "cycle": "releng/9.0",
+      "lts": {
+        "evaluated": false
+      },
+      "releaseDate": "2012-01-10",
+      "eol": {
+        "evaluated": true,
+        "until": "2013-03-31"
+      }
+    },
+    {
+      "apiID": "freebsd",
+      "osReleaseID": "freebsd",
+      "cycle": "stable/9",
+      "lts": {
+        "evaluated": false
+      },
+      "releaseDate": "2012-01-10",
+      "eol": {
+        "evaluated": true,
+        "until": "2016-12-31"
+      }
+    },
+    {
+      "apiID": "freebsd",
+      "osReleaseID": "freebsd",
+      "cycle": "releng/7.4",
+      "lts": {
+        "evaluated": false
+      },
+      "releaseDate": "2011-02-24",
+      "eol": {
+        "evaluated": true,
+        "until": "2013-02-28"
+      }
+    },
+    {
+      "apiID": "freebsd",
+      "osReleaseID": "freebsd",
+      "cycle": "releng/8.2",
+      "lts": {
+        "evaluated": false
+      },
+      "releaseDate": "2011-02-24",
+      "eol": {
+        "evaluated": true,
+        "until": "2012-07-31"
+      }
+    },
+    {
+      "apiID": "freebsd",
+      "osReleaseID": "freebsd",
+      "cycle": "releng/8.1",
+      "lts": {
+        "evaluated": false
+      },
+      "releaseDate": "2010-07-23",
+      "eol": {
+        "evaluated": true,
+        "until": "2012-07-31"
+      }
+    },
+    {
+      "apiID": "freebsd",
+      "osReleaseID": "freebsd",
+      "cycle": "releng/7.3",
+      "lts": {
+        "evaluated": false
+      },
+      "releaseDate": "2010-03-23",
+      "eol": {
+        "evaluated": true,
+        "until": "2012-03-31"
+      }
+    },
+    {
+      "apiID": "freebsd",
+      "osReleaseID": "freebsd",
+      "cycle": "releng/8.0",
+      "lts": {
+        "evaluated": false
+      },
+      "releaseDate": "2009-11-25",
+      "eol": {
+        "evaluated": true,
+        "until": "2010-11-30"
+      }
+    },
+    {
+      "apiID": "freebsd",
+      "osReleaseID": "freebsd",
+      "cycle": "stable/8",
+      "lts": {
+        "evaluated": false
+      },
+      "releaseDate": "2009-11-25",
+      "eol": {
+        "evaluated": true,
+        "until": "2015-08-01"
+      }
+    },
+    {
+      "apiID": "freebsd",
+      "osReleaseID": "freebsd",
+      "cycle": "releng/7.2",
+      "lts": {
+        "evaluated": false
+      },
+      "releaseDate": "2009-03-04",
+      "eol": {
+        "evaluated": true,
+        "until": "2010-06-30"
+      }
+    },
+    {
+      "apiID": "freebsd",
+      "osReleaseID": "freebsd",
+      "cycle": "releng/7.1",
+      "lts": {
+        "evaluated": false
+      },
+      "releaseDate": "2009-01-04",
+      "eol": {
+        "evaluated": true,
+        "until": "2011-02-28"
+      }
+    },
+    {
+      "apiID": "freebsd",
+      "osReleaseID": "freebsd",
+      "cycle": "releng/6.4",
+      "lts": {
+        "evaluated": false
+      },
+      "releaseDate": "2008-11-28",
+      "eol": {
+        "evaluated": true,
+        "until": "2010-11-30"
+      }
+    },
+    {
+      "apiID": "freebsd",
+      "osReleaseID": "freebsd",
+      "cycle": "releng/7.0",
+      "lts": {
+        "evaluated": false
+      },
+      "releaseDate": "2008-02-27",
+      "eol": {
+        "evaluated": true,
+        "until": "2009-04-30"
+      }
+    },
+    {
+      "apiID": "freebsd",
+      "osReleaseID": "freebsd",
+      "cycle": "stable/7",
+      "lts": {
+        "evaluated": false
+      },
+      "releaseDate": "2008-02-27",
+      "eol": {
+        "evaluated": true,
+        "until": "2013-02-28"
+      }
+    },
+    {
+      "apiID": "freebsd",
+      "osReleaseID": "freebsd",
+      "cycle": "releng/6.3",
+      "lts": {
+        "evaluated": false
+      },
+      "releaseDate": "2008-01-18",
+      "eol": {
+        "evaluated": true,
+        "until": "2010-01-31"
+      }
+    },
+    {
+      "apiID": "freebsd",
+      "osReleaseID": "freebsd",
+      "cycle": "releng/6.2",
+      "lts": {
+        "evaluated": false
+      },
+      "releaseDate": "2007-01-15",
+      "eol": {
+        "evaluated": true,
+        "until": "2008-05-31"
+      }
+    },
+    {
+      "apiID": "freebsd",
+      "osReleaseID": "freebsd",
+      "cycle": "releng/5.5",
+      "lts": {
+        "evaluated": false
+      },
+      "releaseDate": "2006-05-25",
+      "eol": {
+        "evaluated": true,
+        "until": "2008-05-31"
+      }
+    },
+    {
+      "apiID": "freebsd",
+      "osReleaseID": "freebsd",
+      "cycle": "releng/6.1",
+      "lts": {
+        "evaluated": false
+      },
+      "releaseDate": "2006-05-09",
+      "eol": {
+        "evaluated": true,
+        "until": "2008-05-31"
+      }
+    },
+    {
+      "apiID": "freebsd",
+      "osReleaseID": "freebsd",
+      "cycle": "releng/6.0",
+      "lts": {
+        "evaluated": false
+      },
+      "releaseDate": "2005-11-04",
+      "eol": {
+        "evaluated": true,
+        "until": "2007-01-31"
+      }
+    },
+    {
+      "apiID": "freebsd",
+      "osReleaseID": "freebsd",
+      "cycle": "stable/6",
+      "lts": {
+        "evaluated": false
+      },
+      "releaseDate": "2005-11-04",
+      "eol": {
+        "evaluated": true,
+        "until": "2010-11-30"
+      }
+    },
+    {
+      "apiID": "freebsd",
+      "osReleaseID": "freebsd",
+      "cycle": "releng/5.4",
+      "lts": {
+        "evaluated": false
+      },
+      "releaseDate": "2005-05-09",
+      "eol": {
+        "evaluated": true,
+        "until": "2006-10-31"
+      }
+    },
+    {
+      "apiID": "freebsd",
+      "osReleaseID": "freebsd",
+      "cycle": "releng/4.11",
+      "lts": {
+        "evaluated": false
+      },
+      "releaseDate": "2005-01-25",
+      "eol": {
+        "evaluated": true,
+        "until": "2007-01-31"
+      }
+    },
+    {
+      "apiID": "freebsd",
+      "osReleaseID": "freebsd",
+      "cycle": "releng/5.3",
+      "lts": {
+        "evaluated": false
+      },
+      "releaseDate": "2004-11-06",
+      "eol": {
+        "evaluated": true,
+        "until": "2006-10-31"
+      }
+    },
+    {
+      "apiID": "freebsd",
+      "osReleaseID": "freebsd",
+      "cycle": "stable/5",
+      "lts": {
+        "evaluated": false
+      },
+      "releaseDate": "2004-11-06",
+      "eol": {
+        "evaluated": true,
+        "until": "2008-05-31"
+      }
+    },
+    {
+      "apiID": "freebsd",
+      "osReleaseID": "freebsd",
+      "cycle": "stable/4",
+      "lts": {
+        "evaluated": false
+      },
+      "releaseDate": "2000-03-14",
+      "eol": {
+        "evaluated": true,
+        "until": "2007-01-31"
+      }
+    }
+  ],
+  "linuxmint": [
+    {
+      "apiID": "linuxmint",
+      "osReleaseID": "linuxmint",
+      "cycle": "22",
+      "codename": "Wilma",
+      "lts": {
+        "evaluated": true
+      },
+      "releaseDate": "2024-07-25",
+      "eol": {
+        "evaluated": true,
+        "until": "2029-04-30"
+      },
+      "latest": "22",
+      "support": {
+        "evaluated": true
+      },
+      "link": "https://blog.linuxmint.com/?p=4731"
+    },
+    {
+      "apiID": "linuxmint",
+      "osReleaseID": "linuxmint",
+      "cycle": "21.3",
+      "codename": "Virginia",
+      "lts": {
+        "evaluated": true
+      },
+      "releaseDate": "2024-01-12",
+      "eol": {
+        "evaluated": true,
+        "until": "2027-04-30"
+      },
+      "latest": "21.3",
+      "support": {
+        "evaluated": true
+      },
+      "link": "https://blog.linuxmint.com/?p=4624"
+    },
+    {
+      "apiID": "linuxmint",
+      "osReleaseID": "linuxmint",
+      "cycle": "lmde6",
+      "codename": "Faye",
+      "lts": {
+        "evaluated": false
+      },
+      "releaseDate": "2023-09-27",
+      "eol": {
+        "evaluated": false
+      },
+      "latest": "6",
+      "support": {
+        "evaluated": true
+      },
+      "link": "https://blog.linuxmint.com/?p=4570"
+    },
+    {
+      "apiID": "linuxmint",
+      "osReleaseID": "linuxmint",
+      "cycle": "21.2",
+      "codename": "Victoria",
+      "lts": {
+        "evaluated": true
+      },
+      "releaseDate": "2023-07-16",
+      "eol": {
+        "evaluated": true,
+        "until": "2027-04-30"
+      },
+      "latest": "21.2",
+      "support": {
+        "evaluated": true
+      },
+      "link": "https://blog.linuxmint.com/?p=4543"
+    },
+    {
+      "apiID": "linuxmint",
+      "osReleaseID": "linuxmint",
+      "cycle": "21.1",
+      "codename": "Vera",
+      "lts": {
+        "evaluated": true
+      },
+      "releaseDate": "2022-12-20",
+      "eol": {
+        "evaluated": true,
+        "until": "2027-04-30"
+      },
+      "latest": "21.1",
+      "support": {
+        "evaluated": true
+      },
+      "link": "https://blog.linuxmint.com/?p=4454"
+    },
+    {
+      "apiID": "linuxmint",
+      "osReleaseID": "linuxmint",
+      "cycle": "21",
+      "codename": "Vanessa",
+      "lts": {
+        "evaluated": true
+      },
+      "releaseDate": "2022-07-31",
+      "eol": {
+        "evaluated": true,
+        "until": "2027-04-30"
+      },
+      "latest": "21",
+      "support": {
+        "evaluated": true
+      },
+      "link": "https://blog.linuxmint.com/?p=4359"
+    },
+    {
+      "apiID": "linuxmint",
+      "osReleaseID": "linuxmint",
+      "cycle": "lmde5",
+      "codename": "Elsie",
+      "lts": {
+        "evaluated": false
+      },
+      "releaseDate": "2022-03-20",
+      "eol": {
+        "evaluated": true,
+        "until": "2024-07-01"
+      },
+      "latest": "5",
+      "support": {
+        "evaluated": true
+      },
+      "link": "https://blog.linuxmint.com/?p=4287"
+    },
+    {
+      "apiID": "linuxmint",
+      "osReleaseID": "linuxmint",
+      "cycle": "20.3",
+      "codename": "Una",
+      "lts": {
+        "evaluated": true
+      },
+      "releaseDate": "2022-01-07",
+      "eol": {
+        "evaluated": true,
+        "until": "2025-04-30"
+      },
+      "latest": "20.3",
+      "support": {
+        "evaluated": true
+      },
+      "link": "https://blog.linuxmint.com/?p=4220"
+    },
+    {
+      "apiID": "linuxmint",
+      "osReleaseID": "linuxmint",
+      "cycle": "20.2",
+      "codename": "Uma",
+      "lts": {
+        "evaluated": true
+      },
+      "releaseDate": "2021-07-08",
+      "eol": {
+        "evaluated": true,
+        "until": "2025-04-30"
+      },
+      "latest": "20.2",
+      "support": {
+        "evaluated": true
+      },
+      "link": "https://blog.linuxmint.com/?p=4102"
+    },
+    {
+      "apiID": "linuxmint",
+      "osReleaseID": "linuxmint",
+      "cycle": "20.1",
+      "codename": "Ulyssa",
+      "lts": {
+        "evaluated": true
+      },
+      "releaseDate": "2021-01-08",
+      "eol": {
+        "evaluated": true,
+        "until": "2025-04-30"
+      },
+      "latest": "20.1",
+      "support": {
+        "evaluated": false
+      },
+      "link": "https://blog.linuxmint.com/?p=4011"
+    },
+    {
+      "apiID": "linuxmint",
+      "osReleaseID": "linuxmint",
+      "cycle": "20",
+      "codename": "Ulyana",
+      "lts": {
+        "evaluated": true
+      },
+      "releaseDate": "2020-06-27",
+      "eol": {
+        "evaluated": true,
+        "until": "2025-04-30"
+      },
+      "latest": "20",
+      "support": {
+        "evaluated": false
+      },
+      "link": "https://blog.linuxmint.com/?p=3928"
+    },
+    {
+      "apiID": "linuxmint",
+      "osReleaseID": "linuxmint",
+      "cycle": "lmde4",
+      "lts": {
+        "evaluated": false
+      },
+      "releaseDate": "2020-03-20",
+      "eol": {
+        "evaluated": true,
+        "until": "2022-08-01"
+      },
+      "latest": "4",
+      "support": {
+        "evaluated": true,
+        "until": "2022-08-01"
+      },
+      "link": "https://blog.linuxmint.com/?p=3867"
+    },
+    {
+      "apiID": "linuxmint",
+      "osReleaseID": "linuxmint",
+      "cycle": "19.3",
+      "codename": "Tricia",
+      "lts": {
+        "evaluated": true
+      },
+      "releaseDate": "2019-12-18",
+      "eol": {
+        "evaluated": true,
+        "until": "2023-04-01"
+      },
+      "latest": "19.3",
+      "support": {
+        "evaluated": false
+      },
+      "link": "https://blog.linuxmint.com/?p=3832"
+    },
+    {
+      "apiID": "linuxmint",
+      "osReleaseID": "linuxmint",
+      "cycle": "19.2",
+      "codename": "Tina",
+      "lts": {
+        "evaluated": true
+      },
+      "releaseDate": "2019-08-02",
+      "eol": {
+        "evaluated": true,
+        "until": "2023-04-01"
+      },
+      "latest": "19.2",
+      "support": {
+        "evaluated": false
+      },
+      "link": "https://blog.linuxmint.com/?p=3786"
+    },
+    {
+      "apiID": "linuxmint",
+      "osReleaseID": "linuxmint",
+      "cycle": "19.1",
+      "codename": "Tessa",
+      "lts": {
+        "evaluated": true
+      },
+      "releaseDate": "2018-12-19",
+      "eol": {
+        "evaluated": true,
+        "until": "2023-04-01"
+      },
+      "latest": "19.1",
+      "support": {
+        "evaluated": false
+      },
+      "link": "https://blog.linuxmint.com/?p=3669"
+    },
+    {
+      "apiID": "linuxmint",
+      "osReleaseID": "linuxmint",
+      "cycle": "19",
+      "codename": "Tara",
+      "lts": {
+        "evaluated": true
+      },
+      "releaseDate": "2018-06-29",
+      "eol": {
+        "evaluated": true,
+        "until": "2023-04-01"
+      },
+      "latest": "19",
+      "support": {
+        "evaluated": false
+      },
+      "link": "https://blog.linuxmint.com/?p=3597"
+    },
+    {
+      "apiID": "linuxmint",
+      "osReleaseID": "linuxmint",
+      "cycle": "18.3",
+      "codename": "Sylvia",
+      "lts": {
+        "evaluated": true
+      },
+      "releaseDate": "2017-11-27",
+      "eol": {
+        "evaluated": true,
+        "until": "2021-05-03"
+      },
+      "latest": "18.3",
+      "support": {
+        "evaluated": false
+      },
+      "link": "https://blog.linuxmint.com/?p=3457"
+    },
+    {
+      "apiID": "linuxmint",
+      "osReleaseID": "linuxmint",
+      "cycle": "18.1",
+      "codename": "Serena",
+      "lts": {
+        "evaluated": false
+      },
+      "releaseDate": "2017-01-27",
+      "eol": {
+        "evaluated": true,
+        "until": "2021-04-01"
+      },
+      "latest": "18.1",
+      "support": {
+        "evaluated": false
+      },
+      "link": "https://blog.linuxmint.com/?p=3223"
+    }
+  ],
+  "mageia": [
+    {
+      "apiID": "mageia",
+      "osReleaseID": "mageia",
+      "cycle": "9",
+      "lts": {
+        "evaluated": false
+      },
+      "releaseDate": "2023-08-27",
+      "eol": {
+        "evaluated": true,
+        "until": "2025-03-31"
+      },
+      "latest": "9",
+      "latestReleaseDate": "2023-08-27",
+      "link": "https://wiki.mageia.org/en/Mageia___RELEASE_CYCLE___Release_Notes"
+    },
+    {
+      "apiID": "mageia",
+      "osReleaseID": "mageia",
+      "cycle": "8",
+      "lts": {
+        "evaluated": false
+      },
+      "releaseDate": "2021-02-26",
+      "eol": {
+        "evaluated": true,
+        "until": "2023-11-30"
+      },
+      "latest": "8",
+      "latestReleaseDate": "2021-02-26",
+      "link": "https://wiki.mageia.org/en/Mageia___RELEASE_CYCLE___Release_Notes"
+    },
+    {
+      "apiID": "mageia",
+      "osReleaseID": "mageia",
+      "cycle": "7",
+      "lts": {
+        "evaluated": false
+      },
+      "releaseDate": "2019-07-01",
+      "eol": {
+        "evaluated": true,
+        "until": "2021-06-30"
+      },
+      "latest": "7",
+      "latestReleaseDate": "2019-07-01"
+    },
+    {
+      "apiID": "mageia",
+      "osReleaseID": "mageia",
+      "cycle": "6",
+      "lts": {
+        "evaluated": false
+      },
+      "releaseDate": "2017-07-16",
+      "eol": {
+        "evaluated": true,
+        "until": "2019-09-30"
+      },
+      "latest": "6",
+      "latestReleaseDate": "2017-07-16"
+    },
+    {
+      "apiID": "mageia",
+      "osReleaseID": "mageia",
+      "cycle": "5",
+      "lts": {
+        "evaluated": false
+      },
+      "releaseDate": "2015-06-20",
+      "eol": {
+        "evaluated": true,
+        "until": "2017-12-31"
+      },
+      "latest": "5",
+      "latestReleaseDate": "2015-06-20"
+    },
+    {
+      "apiID": "mageia",
+      "osReleaseID": "mageia",
+      "cycle": "4",
+      "lts": {
+        "evaluated": false
+      },
+      "releaseDate": "2014-02-01",
+      "eol": {
+        "evaluated": true,
+        "until": "2015-09-19"
+      },
+      "latest": "4",
+      "latestReleaseDate": "2014-02-01"
+    },
+    {
+      "apiID": "mageia",
+      "osReleaseID": "mageia",
+      "cycle": "3",
+      "lts": {
+        "evaluated": false
+      },
+      "releaseDate": "2013-05-19",
+      "eol": {
+        "evaluated": true,
+        "until": "2014-11-26"
+      },
+      "latest": "3",
+      "latestReleaseDate": "2013-05-19"
+    },
+    {
+      "apiID": "mageia",
+      "osReleaseID": "mageia",
+      "cycle": "2",
+      "lts": {
+        "evaluated": false
+      },
+      "releaseDate": "2012-05-22",
+      "eol": {
+        "evaluated": true,
+        "until": "2013-11-22"
+      },
+      "latest": "2",
+      "latestReleaseDate": "2012-05-22"
+    },
+    {
+      "apiID": "mageia",
+      "osReleaseID": "mageia",
+      "cycle": "1",
+      "lts": {
+        "evaluated": false
+      },
+      "releaseDate": "2011-06-01",
+      "eol": {
+        "evaluated": true,
+        "until": "2012-12-01"
+      },
+      "latest": "1",
+      "latestReleaseDate": "2011-06-01"
+    }
+  ],
+  "nixos": [
+    {
+      "apiID": "nixos",
+      "osReleaseID": "nixos",
+      "cycle": "24.05",
+      "codename": "Uakari",
+      "lts": {
+        "evaluated": false
+      },
+      "releaseDate": "2024-05-31",
+      "eol": {
+        "evaluated": true,
+        "until": "2024-12-31"
+      }
+    },
+    {
+      "apiID": "nixos",
+      "osReleaseID": "nixos",
+      "cycle": "23.11",
+      "codename": "Tapir",
+      "lts": {
+        "evaluated": false
+      },
+      "releaseDate": "2023-11-29",
+      "eol": {
+        "evaluated": true,
+        "until": "2024-06-30"
+      }
+    },
+    {
+      "apiID": "nixos",
+      "osReleaseID": "nixos",
+      "cycle": "23.05",
+      "codename": "Stoat",
+      "lts": {
+        "evaluated": false
+      },
+      "releaseDate": "2023-05-31",
+      "eol": {
+        "evaluated": true,
+        "until": "2023-12-31"
+      }
+    },
+    {
+      "apiID": "nixos",
+      "osReleaseID": "nixos",
+      "cycle": "22.11",
+      "codename": "Raccoon",
+      "lts": {
+        "evaluated": false
+      },
+      "releaseDate": "2022-11-30",
+      "eol": {
+        "evaluated": true,
+        "until": "2023-06-30"
+      }
+    },
+    {
+      "apiID": "nixos",
+      "osReleaseID": "nixos",
+      "cycle": "22.05",
+      "codename": "Quokka",
+      "lts": {
+        "evaluated": false
+      },
+      "releaseDate": "2022-05-30",
+      "eol": {
+        "evaluated": true,
+        "until": "2022-12-31"
+      }
+    },
+    {
+      "apiID": "nixos",
+      "osReleaseID": "nixos",
+      "cycle": "21.11",
+      "codename": "Porcupine",
+      "lts": {
+        "evaluated": false
+      },
+      "releaseDate": "2021-11-30",
+      "eol": {
+        "evaluated": true,
+        "until": "2022-06-30"
+      }
+    },
+    {
+      "apiID": "nixos",
+      "osReleaseID": "nixos",
+      "cycle": "21.05",
+      "codename": "Okapi",
+      "lts": {
+        "evaluated": false
+      },
+      "releaseDate": "2021-05-31",
+      "eol": {
+        "evaluated": true,
+        "until": "2021-12-31"
+      }
+    },
+    {
+      "apiID": "nixos",
+      "osReleaseID": "nixos",
+      "cycle": "20.09",
+      "codename": "Nightingale",
+      "lts": {
+        "evaluated": false
+      },
+      "releaseDate": "2020-10-27",
+      "eol": {
+        "evaluated": true,
+        "until": "2021-06-30"
+      }
+    },
+    {
+      "apiID": "nixos",
+      "osReleaseID": "nixos",
+      "cycle": "20.03",
+      "codename": "Markhor",
+      "lts": {
+        "evaluated": false
+      },
+      "releaseDate": "2020-04-20",
+      "eol": {
+        "evaluated": true,
+        "until": "2020-10-30"
+      }
+    },
+    {
+      "apiID": "nixos",
+      "osReleaseID": "nixos",
+      "cycle": "19.09",
+      "codename": "Lori",
+      "lts": {
+        "evaluated": false
+      },
+      "releaseDate": "2019-10-09",
+      "eol": {
+        "evaluated": true,
+        "until": "2020-04-30"
+      }
+    },
+    {
+      "apiID": "nixos",
+      "osReleaseID": "nixos",
+      "cycle": "19.03",
+      "codename": "Koi",
+      "lts": {
+        "evaluated": false
+      },
+      "releaseDate": "2019-04-11",
+      "eol": {
+        "evaluated": true,
+        "until": "2019-10-30"
+      }
+    },
+    {
+      "apiID": "nixos",
+      "osReleaseID": "nixos",
+      "cycle": "18.09",
+      "codename": "Jellyfish",
+      "lts": {
+        "evaluated": false
+      },
+      "releaseDate": "2018-10-05",
+      "eol": {
+        "evaluated": true,
+        "until": "2019-04-30"
+      }
+    },
+    {
+      "apiID": "nixos",
+      "osReleaseID": "nixos",
+      "cycle": "18.03",
+      "codename": "Impala",
+      "lts": {
+        "evaluated": false
+      },
+      "releaseDate": "2018-04-04",
+      "eol": {
+        "evaluated": true,
+        "until": "2018-10-30"
+      }
+    },
+    {
+      "apiID": "nixos",
+      "osReleaseID": "nixos",
+      "cycle": "17.09",
+      "codename": "Hummingbird",
+      "lts": {
+        "evaluated": false
+      },
+      "releaseDate": "2017-09-29",
+      "eol": {
+        "evaluated": true,
+        "until": "2018-04-30"
+      }
+    },
+    {
+      "apiID": "nixos",
+      "osReleaseID": "nixos",
+      "cycle": "17.03",
+      "codename": "Gorilla",
+      "lts": {
+        "evaluated": false
+      },
+      "releaseDate": "2017-03-31",
+      "eol": {
+        "evaluated": true,
+        "until": "2017-10-30"
+      }
+    },
+    {
+      "apiID": "nixos",
+      "osReleaseID": "nixos",
+      "cycle": "16.09",
+      "codename": "Flounder",
+      "lts": {
+        "evaluated": false
+      },
+      "releaseDate": "2016-09-30",
+      "eol": {
+        "evaluated": true,
+        "until": "2017-04-30"
+      }
+    },
+    {
+      "apiID": "nixos",
+      "osReleaseID": "nixos",
+      "cycle": "16.03",
+      "codename": "Emu",
+      "lts": {
+        "evaluated": false
+      },
+      "releaseDate": "2016-03-31",
+      "eol": {
+        "evaluated": true,
+        "until": "2016-10-30"
+      }
+    },
+    {
+      "apiID": "nixos",
+      "osReleaseID": "nixos",
+      "cycle": "15.09",
+      "codename": "Dingo",
+      "lts": {
+        "evaluated": false
+      },
+      "releaseDate": "2015-09-30",
+      "eol": {
+        "evaluated": true,
+        "until": "2016-04-30"
+      }
+    },
+    {
+      "apiID": "nixos",
+      "osReleaseID": "nixos",
+      "cycle": "14.12",
+      "codename": "Caterpillar",
+      "lts": {
+        "evaluated": false
+      },
+      "releaseDate": "2014-12-30",
+      "eol": {
+        "evaluated": true,
+        "until": "2015-09-30"
+      }
+    },
+    {
+      "apiID": "nixos",
+      "osReleaseID": "nixos",
+      "cycle": "14.04",
+      "codename": "Baboon",
+      "lts": {
+        "evaluated": false
+      },
+      "releaseDate": "2014-04-30",
+      "eol": {
+        "evaluated": true,
+        "until": "2015-01-31"
+      }
+    },
+    {
+      "apiID": "nixos",
+      "osReleaseID": "nixos",
+      "cycle": "13.10",
+      "codename": "Aardvark",
+      "lts": {
+        "evaluated": false
+      },
+      "releaseDate": "2013-10-31",
+      "eol": {
+        "evaluated": true,
+        "until": "2014-05-31"
+      }
+    }
+  ],
+  "ol": [
+    {
+      "apiID": "oracle-linux",
+      "osReleaseID": "ol",
+      "cycle": "9",
+      "lts": {
+        "evaluated": false
+      },
+      "releaseDate": "2022-07-06",
+      "eol": {
+        "evaluated": true,
+        "until": "2032-06-30"
+      },
+      "latest": "9.4",
+      "latestReleaseDate": "2024-05-15",
+      "extendedSupport": {
+        "evaluated": true,
+        "until": "2035-06-30"
+      }
+    },
+    {
+      "apiID": "oracle-linux",
+      "osReleaseID": "ol",
+      "cycle": "8",
+      "lts": {
+        "evaluated": false
+      },
+      "releaseDate": "2019-07-19",
+      "eol": {
+        "evaluated": true,
+        "until": "2029-07-31"
+      },
+      "latest": "8.10",
+      "latestReleaseDate": "2024-05-28",
+      "extendedSupport": {
+        "evaluated": true,
+        "until": "2032-07-31"
+      }
+    },
+    {
+      "apiID": "oracle-linux",
+      "osReleaseID": "ol",
+      "cycle": "7",
+      "lts": {
+        "evaluated": false
+      },
+      "releaseDate": "2014-07-23",
+      "eol": {
+        "evaluated": true,
+        "until": "2024-12-31"
+      },
+      "latest": "7.9",
+      "latestReleaseDate": "2020-10-08",
+      "extendedSupport": {
+        "evaluated": true,
+        "until": "2028-06-30"
+      }
+    },
+    {
+      "apiID": "oracle-linux",
+      "osReleaseID": "ol",
+      "cycle": "6",
+      "lts": {
+        "evaluated": false
+      },
+      "releaseDate": "2011-02-12",
+      "eol": {
+        "evaluated": true,
+        "until": "2021-03-31"
+      },
+      "latest": "6.10",
+      "latestReleaseDate": "2018-07-02",
+      "extendedSupport": {
+        "evaluated": true,
+        "until": "2024-12-31"
+      }
+    }
+  ],
+  "opensuse-leap": [
+    {
+      "apiID": "opensuse",
+      "osReleaseID": "opensuse-leap",
+      "cycle": "15.6",
+      "lts": {
+        "evaluated": false
+      },
+      "releaseDate": "2024-06-12",
+      "eol": {
+        "evaluated": true,
+        "until": "2025-12-31"
+      }
+    },
+    {
+      "apiID": "opensuse",
+      "osReleaseID": "opensuse-leap",
+      "cycle": "15.5",
+      "lts": {
+        "evaluated": false
+      },
+      "releaseDate": "2023-06-07",
+      "eol": {
+        "evaluated": true,
+        "until": "2024-12-31"
+      }
+    },
+    {
+      "apiID": "opensuse",
+      "osReleaseID": "opensuse-leap",
+      "cycle": "15.4",
+      "lts": {
+        "evaluated": false
+      },
+      "releaseDate": "2022-06-09",
+      "eol": {
+        "evaluated": true,
+        "until": "2023-12-07"
+      }
+    },
+    {
+      "apiID": "opensuse",
+      "osReleaseID": "opensuse-leap",
+      "cycle": "15.3",
+      "lts": {
+        "evaluated": false
+      },
+      "releaseDate": "2021-06-02",
+      "eol": {
+        "evaluated": true,
+        "until": "2022-12-31"
+      },
+      "link": "https://web.archive.org/web/20230521063245/https://doc.opensuse.org/release-notes/x86_64/openSUSE/Leap/15.3/"
+    },
+    {
+      "apiID": "opensuse",
+      "osReleaseID": "opensuse-leap",
+      "cycle": "15.2",
+      "lts": {
+        "evaluated": false
+      },
+      "releaseDate": "2020-07-02",
+      "eol": {
+        "evaluated": true,
+        "until": "2022-01-04"
+      },
+      "link": "https://web.archive.org/web/20230529015218/https://doc.opensuse.org/release-notes/x86_64/openSUSE/Leap/15.2/"
+    },
+    {
+      "apiID": "opensuse",
+      "osReleaseID": "opensuse-leap",
+      "cycle": "15.1",
+      "lts": {
+        "evaluated": false
+      },
+      "releaseDate": "2019-05-22",
+      "eol": {
+        "evaluated": true,
+        "until": "2021-02-02"
+      },
+      "link": "https://web.archive.org/web/20220210183008/https://doc.opensuse.org/release-notes/x86_64/openSUSE/Leap/15.1/"
+    },
+    {
+      "apiID": "opensuse",
+      "osReleaseID": "opensuse-leap",
+      "cycle": "15.0",
+      "lts": {
+        "evaluated": false
+      },
+      "releaseDate": "2018-05-25",
+      "eol": {
+        "evaluated": true,
+        "until": "2019-12-03"
+      },
+      "link": "https://web.archive.org/web/20220210191659/https://doc.opensuse.org/release-notes/x86_64/openSUSE/Leap/15.0/"
+    },
+    {
+      "apiID": "opensuse",
+      "osReleaseID": "opensuse-leap",
+      "cycle": "42.3",
+      "lts": {
+        "evaluated": false
+      },
+      "releaseDate": "2017-07-26",
+      "eol": {
+        "evaluated": true,
+        "until": "2019-07-01"
+      },
+      "link": "https://web.archive.org/web/20210415073632/https://doc.opensuse.org/release-notes/x86_64/openSUSE/Leap/42.3/"
+    },
+    {
+      "apiID": "opensuse",
+      "osReleaseID": "opensuse-leap",
+      "cycle": "42.2",
+      "lts": {
+        "evaluated": false
+      },
+      "releaseDate": "2016-11-16",
+      "eol": {
+        "evaluated": true,
+        "until": "2018-01-26"
+      },
+      "link": "https://web.archive.org/web/20211005130439/https://doc.opensuse.org/release-notes/x86_64/openSUSE/Leap/42.2/"
+    },
+    {
+      "apiID": "opensuse",
+      "osReleaseID": "opensuse-leap",
+      "cycle": "42.1",
+      "lts": {
+        "evaluated": false
+      },
+      "releaseDate": "2015-11-04",
+      "eol": {
+        "evaluated": true,
+        "until": "2017-05-17"
+      },
+      "link": "https://web.archive.org/web/20211005130439/https://doc.opensuse.org/release-notes/x86_64/openSUSE/Leap/42.1/"
+    },
+    {
+      "apiID": "opensuse",
+      "osReleaseID": "opensuse-leap",
+      "cycle": "13.2",
+      "lts": {
+        "evaluated": false
+      },
+      "releaseDate": "2014-11-04",
+      "eol": {
+        "evaluated": true,
+        "until": "2017-01-17"
+      },
+      "link": "https://web.archive.org/web/20231128204444/https://doc.opensuse.org/release-notes/x86_64/openSUSE/13.2/"
+    },
+    {
+      "apiID": "opensuse",
+      "osReleaseID": "opensuse-leap",
+      "cycle": "13.1",
+      "lts": {
+        "evaluated": false
+      },
+      "releaseDate": "2014-01-08",
+      "eol": {
+        "evaluated": true,
+        "until": "2016-02-03"
+      },
+      "link": "https://web.archive.org/web/20240229083418/https://doc.opensuse.org/release-notes/x86_64/openSUSE/13.1/"
+    },
+    {
+      "apiID": "opensuse",
+      "osReleaseID": "opensuse-leap",
+      "cycle": "12.3",
+      "lts": {
+        "evaluated": false
+      },
+      "releaseDate": "2013-03-13",
+      "eol": {
+        "evaluated": true,
+        "until": "2015-01-29"
+      },
+      "link": "https://web.archive.org/web/20230716101428/https://doc.opensuse.org/release-notes/x86_64/openSUSE/12.3/"
+    },
+    {
+      "apiID": "opensuse",
+      "osReleaseID": "opensuse-leap",
+      "cycle": "12.2",
+      "lts": {
+        "evaluated": false
+      },
+      "releaseDate": "2012-09-05",
+      "eol": {
+        "evaluated": true,
+        "until": "2014-01-15"
+      },
+      "link": "https://web.archive.org/web/20240519013538/https://doc.opensuse.org/release-notes/x86_64/openSUSE/12.2/"
+    },
+    {
+      "apiID": "opensuse",
+      "osReleaseID": "opensuse-leap",
+      "cycle": "12.1",
+      "lts": {
+        "evaluated": false
+      },
+      "releaseDate": "2011-11-16",
+      "eol": {
+        "evaluated": true,
+        "until": "2013-05-15"
+      },
+      "link": "https://web.archive.org/web/20240519012550/https://doc.opensuse.org/release-notes/x86_64/openSUSE/12.1/"
+    },
+    {
+      "apiID": "opensuse",
+      "osReleaseID": "opensuse-leap",
+      "cycle": "11.4",
+      "lts": {
+        "evaluated": false
+      },
+      "releaseDate": "2011-03-10",
+      "eol": {
+        "evaluated": true,
+        "until": "2012-11-05"
+      },
+      "link": "https://en.opensuse.org/Archive:Product_highlights_11.4"
+    },
+    {
+      "apiID": "opensuse",
+      "osReleaseID": "opensuse-leap",
+      "cycle": "11.3",
+      "lts": {
+        "evaluated": false
+      },
+      "releaseDate": "2010-07-15",
+      "eol": {
+        "evaluated": true,
+        "until": "2012-01-20"
+      },
+      "link": "https://en.opensuse.org/Archive:Product_highlights_11.3"
+    },
+    {
+      "apiID": "opensuse",
+      "osReleaseID": "opensuse-leap",
+      "cycle": "11.2",
+      "lts": {
+        "evaluated": false
+      },
+      "releaseDate": "2009-11-12",
+      "eol": {
+        "evaluated": true,
+        "until": "2011-05-12"
+      },
+      "link": "https://en.opensuse.org/Archive:Product_highlights_11.2"
+    },
+    {
+      "apiID": "opensuse",
+      "osReleaseID": "opensuse-leap",
+      "cycle": "11.1",
+      "lts": {
+        "evaluated": false
+      },
+      "releaseDate": "2008-12-18",
+      "eol": {
+        "evaluated": true,
+        "until": "2011-01-14"
+      },
+      "link": "https://www.suse.com/releasenotes/x86_64/openSUSE/11.1/index.html"
+    },
+    {
+      "apiID": "opensuse",
+      "osReleaseID": "opensuse-leap",
+      "cycle": "11.0",
+      "lts": {
+        "evaluated": false
+      },
+      "releaseDate": "2008-06-19",
+      "eol": {
+        "evaluated": true,
+        "until": "2010-07-26"
+      },
+      "link": "https://www.suse.com/releasenotes/x86_64/openSUSE/11.0/index.html"
+    }
+  ],
+  "openwrt": [
+    {
+      "apiID": "openwrt",
+      "osReleaseID": "openwrt",
+      "cycle": "23.05",
+      "lts": {
+        "evaluated": false
+      },
+      "releaseDate": "2023-10-11",
+      "eol": {
+        "evaluated": false
+      },
+      "latest": "23.05.5",
+      "latestReleaseDate": "2024-09-24",
+      "support": {
+        "evaluated": true
+      }
+    },
+    {
+      "apiID": "openwrt",
+      "osReleaseID": "openwrt",
+      "cycle": "22.03",
+      "lts": {
+        "evaluated": false
+      },
+      "releaseDate": "2022-09-03",
+      "eol": {
+        "evaluated": true,
+        "until": "2024-04-11"
+      },
+      "latest": "22.03.7",
+      "latestReleaseDate": "2024-07-23",
+      "support": {
+        "evaluated": true,
+        "until": "2023-10-11"
+      }
+    },
+    {
+      "apiID": "openwrt",
+      "osReleaseID": "openwrt",
+      "cycle": "21.02",
+      "lts": {
+        "evaluated": false
+      },
+      "releaseDate": "2021-09-01",
+      "eol": {
+        "evaluated": true,
+        "until": "2023-04-30"
+      },
+      "latest": "21.02.7",
+      "latestReleaseDate": "2023-04-27",
+      "support": {
+        "evaluated": true,
+        "until": "2022-09-03"
+      }
+    },
+    {
+      "apiID": "openwrt",
+      "osReleaseID": "openwrt",
+      "cycle": "19.07",
+      "lts": {
+        "evaluated": false
+      },
+      "releaseDate": "2020-01-06",
+      "eol": {
+        "evaluated": true,
+        "until": "2022-04-30"
+      },
+      "latest": "19.07.10",
+      "latestReleaseDate": "2022-04-17",
+      "support": {
+        "evaluated": true,
+        "until": "2021-09-01"
+      }
+    },
+    {
+      "apiID": "openwrt",
+      "osReleaseID": "openwrt",
+      "cycle": "18.06",
+      "lts": {
+        "evaluated": false
+      },
+      "releaseDate": "2018-07-30",
+      "eol": {
+        "evaluated": true,
+        "until": "2021-07-01"
+      },
+      "latest": "18.06.9",
+      "latestReleaseDate": "2020-11-17",
+      "support": {
+        "evaluated": true,
+        "until": "2020-01-06"
+      }
+    },
+    {
+      "apiID": "openwrt",
+      "osReleaseID": "openwrt",
+      "cycle": "17.01",
+      "lts": {
+        "evaluated": false
+      },
+      "releaseDate": "2017-02-20",
+      "eol": {
+        "evaluated": true,
+        "until": "2019-02-01"
+      },
+      "latest": "17.01.7",
+      "latestReleaseDate": "2019-06-21",
+      "support": {
+        "evaluated": true,
+        "until": "2018-07-30"
+      }
+    }
+  ],
+  "photon": [
+    {
+      "apiID": "photon",
+      "osReleaseID": "photon",
+      "cycle": "5.0",
+      "lts": {
+        "evaluated": false
+      },
+      "releaseDate": "2023-05-02",
+      "eol": {
+        "evaluated": false
+      },
+      "link": "https://blogs.vmware.com/vsphere/2023/05/announcing-photon-os-5-0-general-availability.html"
+    },
+    {
+      "apiID": "photon",
+      "osReleaseID": "photon",
+      "cycle": "4.0",
+      "lts": {
+        "evaluated": false
+      },
+      "releaseDate": "2021-02-25",
+      "eol": {
+        "evaluated": true,
+        "until": "2026-03-01"
+      },
+      "link": "https://blogs.vmware.com/vsphere/2021/02/photon-os-4-0-release-announcement.html"
+    },
+    {
+      "apiID": "photon",
+      "osReleaseID": "photon",
+      "cycle": "3.0",
+      "lts": {
+        "evaluated": false
+      },
+      "releaseDate": "2019-02-08",
+      "eol": {
+        "evaluated": true,
+        "until": "2024-03-01"
+      },
+      "link": "https://vmware.github.io/photon/assets/files/html/3.0/What-is-New-in-Photon-OS-3.0.html"
+    },
+    {
+      "apiID": "photon",
+      "osReleaseID": "photon",
+      "cycle": "2.0",
+      "lts": {
+        "evaluated": false
+      },
+      "releaseDate": "2017-11-01",
+      "eol": {
+        "evaluated": true,
+        "until": "2022-12-01"
+      },
+      "link": "https://web.archive.org/web/20221224152228/https://blogs.vmware.com/cloudnative/2017/11/01/version-2-0-project-photon-os/"
+    },
+    {
+      "apiID": "photon",
+      "osReleaseID": "photon",
+      "cycle": "1.0",
+      "lts": {
+        "evaluated": false
+      },
+      "releaseDate": "2016-06-11",
+      "eol": {
+        "evaluated": true,
+        "until": "2022-02-28"
+      },
+      "link": "https://web.archive.org/web/20220628122239/https://blogs.vmware.com/cloudnative/2016/06/16/vmwares-photon-os-1-0-now-available/"
+    }
+  ],
+  "pop": [
+    {
+      "apiID": "pop-os",
+      "osReleaseID": "pop",
+      "cycle": "22.04",
+      "lts": {
+        "evaluated": true
+      },
+      "releaseDate": "2022-04-25",
+      "eol": {
+        "evaluated": true,
+        "until": "2027-04-25"
+      },
+      "link": "https://blog.system76.com/post/popos-2204-lts-has-landed"
+    },
+    {
+      "apiID": "pop-os",
+      "osReleaseID": "pop",
+      "cycle": "21.10",
+      "lts": {
+        "evaluated": false
+      },
+      "releaseDate": "2021-12-14",
+      "eol": {
+        "evaluated": true,
+        "until": "2022-07-24"
+      },
+      "link": "https://blog.system76.com/post/popos-2110-has-landed"
+    },
+    {
+      "apiID": "pop-os",
+      "osReleaseID": "pop",
+      "cycle": "21.04",
+      "lts": {
+        "evaluated": false
+      },
+      "releaseDate": "2021-06-29",
+      "eol": {
+        "evaluated": true,
+        "until": "2022-03-13"
+      },
+      "link": "https://blog.system76.com/post/popos-2104-a-release-of-cosmic-proportions"
+    },
+    {
+      "apiID": "pop-os",
+      "osReleaseID": "pop",
+      "cycle": "20.10",
+      "lts": {
+        "evaluated": false
+      },
+      "releaseDate": "2020-10-23",
+      "eol": {
+        "evaluated": true,
+        "until": "2021-09-28"
+      },
+      "link": "https://www.tumblr.com/system76/632781631953027072/whats-new-in-popos-2010"
+    },
+    {
+      "apiID": "pop-os",
+      "osReleaseID": "pop",
+      "cycle": "20.04",
+      "lts": {
+        "evaluated": true
+      },
+      "releaseDate": "2020-04-30",
+      "eol": {
+        "evaluated": true,
+        "until": "2025-04-30"
+      },
+      "link": "https://www.tumblr.com/system76/616861064165031936/whats-new-with-popos-2004-lts"
+    },
+    {
+      "apiID": "pop-os",
+      "osReleaseID": "pop",
+      "cycle": "19.10",
+      "lts": {
+        "evaluated": false
+      },
+      "releaseDate": "2019-10-19",
+      "eol": {
+        "evaluated": true,
+        "until": "2020-07-29"
+      },
+      "link": "https://www.tumblr.com/system76/188452593438/theme-updates-offline-upgrades-headline-new"
+    },
+    {
+      "apiID": "pop-os",
+      "osReleaseID": "pop",
+      "cycle": "19.04",
+      "lts": {
+        "evaluated": false
+      },
+      "releaseDate": "2019-04-20",
+      "eol": {
+        "evaluated": true,
+        "until": "2020-01-18"
+      },
+      "link": "https://www.tumblr.com/system76/184281497363/popos-1904-is-here"
+    },
+    {
+      "apiID": "pop-os",
+      "osReleaseID": "pop",
+      "cycle": "18.10",
+      "lts": {
+        "evaluated": false
+      },
+      "releaseDate": "2018-10-19",
+      "eol": {
+        "evaluated": true,
+        "until": "2019-07-19"
+      },
+      "link": "https://www.tumblr.com/system76/179217201328/see-what-changes-have-been-orbiting-popos"
+    },
+    {
+      "apiID": "pop-os",
+      "osReleaseID": "pop",
+      "cycle": "18.04",
+      "lts": {
+        "evaluated": true
+      },
+      "releaseDate": "2018-04-30",
+      "eol": {
+        "evaluated": true,
+        "until": "2023-04-30"
+      },
+      "link": "https://www.tumblr.com/system76/171934557903/popos-1804-testing-iso-coming-soon-updates-on"
+    },
+    {
+      "apiID": "pop-os",
+      "osReleaseID": "pop",
+      "cycle": "17.10",
+      "lts": {
+        "evaluated": false
+      },
+      "releaseDate": "2017-10-27",
+      "eol": {
+        "evaluated": true,
+        "until": "2018-07-29"
+      },
+      "link": "https://www.tumblr.com/system76/165833795278/why-system76-is-making-popos"
+    }
+  ],
+  "rhel": [
+    {
+      "apiID": "rhel",
+      "osReleaseID": "rhel",
+      "cycle": "9",
+      "lts": {
+        "evaluated": true,
+        "until": "2032-05-31"
+      },
+      "releaseDate": "2022-05-17",
+      "eol": {
+        "evaluated": true,
+        "until": "2032-05-31"
+      },
+      "latest": "9.4",
+      "latestReleaseDate": "2024-04-30",
+      "support": {
+        "evaluated": true,
+        "until": "2027-05-31"
+      },
+      "extendedSupport": {
+        "evaluated": true,
+        "until": "2035-05-31"
+      }
+    },
+    {
+      "apiID": "rhel",
+      "osReleaseID": "rhel",
+      "cycle": "8",
+      "lts": {
+        "evaluated": true,
+        "until": "2029-05-31"
+      },
+      "releaseDate": "2019-05-07",
+      "eol": {
+        "evaluated": true,
+        "until": "2029-05-31"
+      },
+      "latest": "8.10",
+      "latestReleaseDate": "2024-05-22",
+      "support": {
+        "evaluated": true,
+        "until": "2024-05-31"
+      },
+      "extendedSupport": {
+        "evaluated": true,
+        "until": "2032-05-31"
+      }
+    },
+    {
+      "apiID": "rhel",
+      "osReleaseID": "rhel",
+      "cycle": "7",
+      "lts": {
+        "evaluated": true,
+        "until": "2024-06-30"
+      },
+      "releaseDate": "2013-12-11",
+      "eol": {
+        "evaluated": true,
+        "until": "2024-06-30"
+      },
+      "latest": "7.9",
+      "latestReleaseDate": "2020-09-29",
+      "support": {
+        "evaluated": true,
+        "until": "2019-08-06"
+      },
+      "extendedSupport": {
+        "evaluated": true,
+        "until": "2028-06-30"
+      }
+    },
+    {
+      "apiID": "rhel",
+      "osReleaseID": "rhel",
+      "cycle": "6",
+      "lts": {
+        "evaluated": true,
+        "until": "2020-11-30"
+      },
+      "releaseDate": "2010-11-09",
+      "eol": {
+        "evaluated": true,
+        "until": "2020-11-30"
+      },
+      "latest": "6.10",
+      "latestReleaseDate": "2018-06-19",
+      "support": {
+        "evaluated": true,
+        "until": "2016-05-10"
+      },
+      "extendedSupport": {
+        "evaluated": true,
+        "until": "2024-06-30"
+      }
+    },
+    {
+      "apiID": "rhel",
+      "osReleaseID": "rhel",
+      "cycle": "5",
+      "lts": {
+        "evaluated": true,
+        "until": "2017-03-31"
+      },
+      "releaseDate": "2007-03-15",
+      "eol": {
+        "evaluated": true,
+        "until": "2017-03-31"
+      },
+      "latest": "5.11",
+      "latestReleaseDate": "2014-09-16",
+      "support": {
+        "evaluated": true,
+        "until": "2013-01-08"
+      },
+      "extendedSupport": {
+        "evaluated": true,
+        "until": "2020-11-30"
+      }
+    },
+    {
+      "apiID": "rhel",
+      "osReleaseID": "rhel",
+      "cycle": "4",
+      "lts": {
+        "evaluated": false
+      },
+      "releaseDate": "2005-02-15",
+      "eol": {
+        "evaluated": true,
+        "until": "2012-02-29"
+      },
+      "latest": "4.9",
+      "latestReleaseDate": "2011-02-16",
+      "support": {
+        "evaluated": true,
+        "until": "2009-03-31"
+      },
+      "extendedSupport": {
+        "evaluated": true,
+        "until": "2017-03-31"
+      }
+    }
+  ],
+  "rocky": [
+    {
+      "apiID": "rocky-linux",
+      "osReleaseID": "rocky",
+      "cycle": "9",
+      "lts": {
+        "evaluated": false
+      },
+      "releaseDate": "2022-07-14",
+      "eol": {
+        "evaluated": true,
+        "until": "2032-05-31"
+      },
+      "latest": "9.4",
+      "latestReleaseDate": "2024-05-09",
+      "support": {
+        "evaluated": true,
+        "until": "2027-05-31"
+      }
+    },
+    {
+      "apiID": "rocky-linux",
+      "osReleaseID": "rocky",
+      "cycle": "8",
+      "lts": {
+        "evaluated": false
+      },
+      "releaseDate": "2021-05-01",
+      "eol": {
+        "evaluated": true,
+        "until": "2029-05-31"
+      },
+      "latest": "8.10",
+      "latestReleaseDate": "2024-05-31",
+      "support": {
+        "evaluated": true,
+        "until": "2024-05-31"
+      }
+    }
+  ],
+  "slackware": [
+    {
+      "apiID": "slackware",
+      "osReleaseID": "slackware",
+      "cycle": "15.0",
+      "codename": "stable",
+      "lts": {
+        "evaluated": false
+      },
+      "releaseDate": "2022-02-03",
+      "eol": {
+        "evaluated": false
+      },
+      "latest": "15.0",
+      "latestReleaseDate": "2022-02-03"
+    },
+    {
+      "apiID": "slackware",
+      "osReleaseID": "slackware",
+      "cycle": "14.2",
+      "lts": {
+        "evaluated": false
+      },
+      "releaseDate": "2016-07-01",
+      "eol": {
+        "evaluated": true,
+        "until": "2024-01-01"
+      },
+      "latest": "14.2",
+      "latestReleaseDate": "2016-07-01"
+    },
+    {
+      "apiID": "slackware",
+      "osReleaseID": "slackware",
+      "cycle": "14.1",
+      "lts": {
+        "evaluated": false
+      },
+      "releaseDate": "2013-11-07",
+      "eol": {
+        "evaluated": true,
+        "until": "2024-01-01"
+      },
+      "latest": "14.1",
+      "latestReleaseDate": "2013-11-07"
+    },
+    {
+      "apiID": "slackware",
+      "osReleaseID": "slackware",
+      "cycle": "14.0",
+      "lts": {
+        "evaluated": false
+      },
+      "releaseDate": "2012-09-28",
+      "eol": {
+        "evaluated": true,
+        "until": "2024-01-01"
+      },
+      "latest": "14.0",
+      "latestReleaseDate": "2012-09-28"
+    },
+    {
+      "apiID": "slackware",
+      "osReleaseID": "slackware",
+      "cycle": "13.37",
+      "lts": {
+        "evaluated": false
+      },
+      "releaseDate": "2011-04-28",
+      "eol": {
+        "evaluated": true,
+        "until": "2018-07-05"
+      },
+      "latest": "13.37",
+      "latestReleaseDate": "2011-04-28"
+    },
+    {
+      "apiID": "slackware",
+      "osReleaseID": "slackware",
+      "cycle": "13.1",
+      "lts": {
+        "evaluated": false
+      },
+      "releaseDate": "2010-05-24",
+      "eol": {
+        "evaluated": true,
+        "until": "2018-07-05"
+      },
+      "latest": "13.1",
+      "latestReleaseDate": "2010-05-24"
+    },
+    {
+      "apiID": "slackware",
+      "osReleaseID": "slackware",
+      "cycle": "13.0",
+      "lts": {
+        "evaluated": false
+      },
+      "releaseDate": "2009-08-28",
+      "eol": {
+        "evaluated": true,
+        "until": "2018-07-05"
+      },
+      "latest": "13.0",
+      "latestReleaseDate": "2009-08-28"
+    },
+    {
+      "apiID": "slackware",
+      "osReleaseID": "slackware",
+      "cycle": "12.2",
+      "lts": {
+        "evaluated": false
+      },
+      "releaseDate": "2008-12-11",
+      "eol": {
+        "evaluated": true,
+        "until": "2013-12-09"
+      },
+      "latest": "12.2",
+      "latestReleaseDate": "2008-12-11"
+    },
+    {
+      "apiID": "slackware",
+      "osReleaseID": "slackware",
+      "cycle": "12.1",
+      "lts": {
+        "evaluated": false
+      },
+      "releaseDate": "2008-05-02",
+      "eol": {
+        "evaluated": true,
+        "until": "2013-12-09"
+      },
+      "latest": "12.1",
+      "latestReleaseDate": "2008-05-02"
+    },
+    {
+      "apiID": "slackware",
+      "osReleaseID": "slackware",
+      "cycle": "12.0",
+      "lts": {
+        "evaluated": false
+      },
+      "releaseDate": "2007-07-02",
+      "eol": {
+        "evaluated": true,
+        "until": "2012-08-01"
+      },
+      "latest": "12.0",
+      "latestReleaseDate": "2007-07-02"
+    },
+    {
+      "apiID": "slackware",
+      "osReleaseID": "slackware",
+      "cycle": "11.0",
+      "lts": {
+        "evaluated": false
+      },
+      "releaseDate": "2006-10-03",
+      "eol": {
+        "evaluated": true,
+        "until": "2012-08-01"
+      },
+      "latest": "11.0",
+      "latestReleaseDate": "2006-10-03"
+    },
+    {
+      "apiID": "slackware",
+      "osReleaseID": "slackware",
+      "cycle": "10.2",
+      "lts": {
+        "evaluated": false
+      },
+      "releaseDate": "2005-09-15",
+      "eol": {
+        "evaluated": true,
+        "until": "2012-08-01"
+      },
+      "latest": "10.2",
+      "latestReleaseDate": "2005-09-15"
+    },
+    {
+      "apiID": "slackware",
+      "osReleaseID": "slackware",
+      "cycle": "10.1",
+      "lts": {
+        "evaluated": false
+      },
+      "releaseDate": "2005-02-07",
+      "eol": {
+        "evaluated": true,
+        "until": "2012-08-01"
+      },
+      "latest": "10.1",
+      "latestReleaseDate": "2005-02-07"
+    },
+    {
+      "apiID": "slackware",
+      "osReleaseID": "slackware",
+      "cycle": "10.0",
+      "lts": {
+        "evaluated": false
+      },
+      "releaseDate": "2004-06-23",
+      "eol": {
+        "evaluated": true,
+        "until": "2012-08-01"
+      },
+      "latest": "10.0",
+      "latestReleaseDate": "2004-06-23"
+    },
+    {
+      "apiID": "slackware",
+      "osReleaseID": "slackware",
+      "cycle": "9.1",
+      "lts": {
+        "evaluated": false
+      },
+      "releaseDate": "2003-09-26",
+      "eol": {
+        "evaluated": true,
+        "until": "2012-08-01"
+      },
+      "latest": "9.1",
+      "latestReleaseDate": "2003-09-26"
+    },
+    {
+      "apiID": "slackware",
+      "osReleaseID": "slackware",
+      "cycle": "9.0",
+      "lts": {
+        "evaluated": false
+      },
+      "releaseDate": "2003-03-18",
+      "eol": {
+        "evaluated": true,
+        "until": "2012-08-01"
+      }
+    },
+    {
+      "apiID": "slackware",
+      "osReleaseID": "slackware",
+      "cycle": "8.1",
+      "lts": {
+        "evaluated": false
+      },
+      "releaseDate": "2002-06-19",
+      "eol": {
+        "evaluated": true,
+        "until": "2012-08-01"
+      },
+      "latest": "8.1",
+      "latestReleaseDate": "2002-06-19",
+      "link": "https://mirrors.slackware.com/slackware/slackware-8.1/ANNOUNCE.8_1"
+    },
+    {
+      "apiID": "slackware",
+      "osReleaseID": "slackware",
+      "cycle": "8.0",
+      "lts": {
+        "evaluated": false
+      },
+      "releaseDate": "2001-07-01",
+      "eol": {
+        "evaluated": true,
+        "until": "2003-03-29"
+      },
+      "latest": "8.0",
+      "latestReleaseDate": "2001-07-01",
+      "link": "https://mirrors.slackware.com/slackware/slackware-8.0/ANNOUNCE.TXT"
+    }
+  ],
+  "sled": [
+    {
+      "apiID": "sles",
+      "osReleaseID": "sled",
+      "cycle": "15.6",
+      "lts": {
+        "evaluated": false
+      },
+      "releaseDate": "2024-06-26",
+      "eol": {
+        "evaluated": false
+      },
+      "latest": "15.6",
+      "latestReleaseDate": "2024-06-26",
+      "extendedSupport": {
+        "evaluated": true
+      }
+    },
+    {
+      "apiID": "sles",
+      "osReleaseID": "sled",
+      "cycle": "15.5",
+      "lts": {
+        "evaluated": false
+      },
+      "releaseDate": "2023-06-20",
+      "eol": {
+        "evaluated": true,
+        "until": "2024-12-31"
+      },
+      "latest": "15.5",
+      "latestReleaseDate": "2023-06-20",
+      "extendedSupport": {
+        "evaluated": true,
+        "until": "2027-12-31"
+      }
+    },
+    {
+      "apiID": "sles",
+      "osReleaseID": "sled",
+      "cycle": "15.4",
+      "lts": {
+        "evaluated": false
+      },
+      "releaseDate": "2022-06-21",
+      "eol": {
+        "evaluated": true,
+        "until": "2023-12-31"
+      },
+      "latest": "15.4",
+      "latestReleaseDate": "2022-06-21",
+      "extendedSupport": {
+        "evaluated": true,
+        "until": "2026-12-31"
+      }
+    },
+    {
+      "apiID": "sles",
+      "osReleaseID": "sled",
+      "cycle": "15.3",
+      "lts": {
+        "evaluated": false
+      },
+      "releaseDate": "2021-06-22",
+      "eol": {
+        "evaluated": true,
+        "until": "2022-12-31"
+      },
+      "latest": "15.3",
+      "latestReleaseDate": "2021-06-22",
+      "extendedSupport": {
+        "evaluated": true,
+        "until": "2025-12-31"
+      }
+    },
+    {
+      "apiID": "sles",
+      "osReleaseID": "sled",
+      "cycle": "15.2",
+      "lts": {
+        "evaluated": false
+      },
+      "releaseDate": "2020-07-21",
+      "eol": {
+        "evaluated": true,
+        "until": "2021-12-31"
+      },
+      "latest": "15.2",
+      "latestReleaseDate": "2020-07-21",
+      "extendedSupport": {
+        "evaluated": true,
+        "until": "2024-12-31"
+      }
+    },
+    {
+      "apiID": "sles",
+      "osReleaseID": "sled",
+      "cycle": "12.5",
+      "lts": {
+        "evaluated": false
+      },
+      "releaseDate": "2019-12-09",
+      "eol": {
+        "evaluated": true,
+        "until": "2024-10-31"
+      },
+      "latest": "12.5",
+      "latestReleaseDate": "2019-12-09",
+      "extendedSupport": {
+        "evaluated": true,
+        "until": "2027-10-31"
+      }
+    },
+    {
+      "apiID": "sles",
+      "osReleaseID": "sled",
+      "cycle": "15.1",
+      "lts": {
+        "evaluated": false
+      },
+      "releaseDate": "2019-06-24",
+      "eol": {
+        "evaluated": true,
+        "until": "2021-01-31"
+      },
+      "latest": "15.1",
+      "latestReleaseDate": "2019-06-24",
+      "extendedSupport": {
+        "evaluated": true,
+        "until": "2024-01-31"
+      }
+    },
+    {
+      "apiID": "sles",
+      "osReleaseID": "sled",
+      "cycle": "12.4",
+      "lts": {
+        "evaluated": false
+      },
+      "releaseDate": "2018-12-12",
+      "eol": {
+        "evaluated": true,
+        "until": "2020-06-30"
+      },
+      "latest": "12.4",
+      "latestReleaseDate": "2018-12-12",
+      "extendedSupport": {
+        "evaluated": true,
+        "until": "2023-06-30"
+      }
+    },
+    {
+      "apiID": "sles",
+      "osReleaseID": "sled",
+      "cycle": "15",
+      "lts": {
+        "evaluated": false
+      },
+      "releaseDate": "2018-07-16",
+      "eol": {
+        "evaluated": true,
+        "until": "2019-12-31"
+      },
+      "latest": "15.5",
+      "latestReleaseDate": "2023-06-20",
+      "extendedSupport": {
+        "evaluated": true,
+        "until": "2022-12-31"
+      }
+    },
+    {
+      "apiID": "sles",
+      "osReleaseID": "sled",
+      "cycle": "12.3",
+      "lts": {
+        "evaluated": false
+      },
+      "releaseDate": "2017-09-07",
+      "eol": {
+        "evaluated": true,
+        "until": "2019-06-30"
+      },
+      "latest": "12.3",
+      "latestReleaseDate": "2017-09-07",
+      "extendedSupport": {
+        "evaluated": true,
+        "until": "2022-06-30"
+      }
+    },
+    {
+      "apiID": "sles",
+      "osReleaseID": "sled",
+      "cycle": "12.2",
+      "lts": {
+        "evaluated": false
+      },
+      "releaseDate": "2016-11-08",
+      "eol": {
+        "evaluated": true,
+        "until": "2018-03-31"
+      },
+      "latest": "12.2",
+      "latestReleaseDate": "2016-11-08",
+      "extendedSupport": {
+        "evaluated": true,
+        "until": "2021-03-31"
+      }
+    },
+    {
+      "apiID": "sles",
+      "osReleaseID": "sled",
+      "cycle": "12.1",
+      "lts": {
+        "evaluated": false
+      },
+      "releaseDate": "2015-12-15",
+      "eol": {
+        "evaluated": true,
+        "until": "2017-05-31"
+      },
+      "latest": "12.1",
+      "latestReleaseDate": "2015-12-15",
+      "extendedSupport": {
+        "evaluated": true,
+        "until": "2020-05-31"
+      }
+    },
+    {
+      "apiID": "sles",
+      "osReleaseID": "sled",
+      "cycle": "11.4",
+      "lts": {
+        "evaluated": false
+      },
+      "releaseDate": "2015-07-15",
+      "eol": {
+        "evaluated": true,
+        "until": "2019-03-31"
+      },
+      "latest": "11.4",
+      "latestReleaseDate": "2015-07-15",
+      "extendedSupport": {
+        "evaluated": true,
+        "until": "2022-03-31"
+      }
+    },
+    {
+      "apiID": "sles",
+      "osReleaseID": "sled",
+      "cycle": "12",
+      "lts": {
+        "evaluated": false
+      },
+      "releaseDate": "2014-10-27",
+      "eol": {
+        "evaluated": true,
+        "until": "2016-06-30"
+      },
+      "latest": "12.5",
+      "latestReleaseDate": "2019-12-09",
+      "extendedSupport": {
+        "evaluated": true,
+        "until": "2019-07-01"
+      }
+    },
+    {
+      "apiID": "sles",
+      "osReleaseID": "sled",
+      "cycle": "11.3",
+      "lts": {
+        "evaluated": false
+      },
+      "releaseDate": "2013-07-01",
+      "eol": {
+        "evaluated": true,
+        "until": "2016-01-31"
+      },
+      "latest": "11.3",
+      "latestReleaseDate": "2013-07-01",
+      "extendedSupport": {
+        "evaluated": true,
+        "until": "2019-01-30"
+      }
+    },
+    {
+      "apiID": "sles",
+      "osReleaseID": "sled",
+      "cycle": "11.2",
+      "lts": {
+        "evaluated": false
+      },
+      "releaseDate": "2012-02-29",
+      "eol": {
+        "evaluated": true,
+        "until": "2014-01-31"
+      },
+      "latest": "11.2",
+      "latestReleaseDate": "2012-02-29",
+      "extendedSupport": {
+        "evaluated": true,
+        "until": "2017-01-30"
+      }
+    },
+    {
+      "apiID": "sles",
+      "osReleaseID": "sled",
+      "cycle": "10.4",
+      "lts": {
+        "evaluated": false
+      },
+      "releaseDate": "2011-04-12",
+      "eol": {
+        "evaluated": true,
+        "until": "2013-07-31"
+      },
+      "latest": "10.4",
+      "latestReleaseDate": "2011-04-12",
+      "extendedSupport": {
+        "evaluated": true,
+        "until": "2016-07-30"
+      }
+    },
+    {
+      "apiID": "sles",
+      "osReleaseID": "sled",
+      "cycle": "11.1",
+      "lts": {
+        "evaluated": false
+      },
+      "releaseDate": "2010-06-02",
+      "eol": {
+        "evaluated": true,
+        "until": "2012-08-31"
+      },
+      "latest": "11.1",
+      "latestReleaseDate": "2010-06-02",
+      "extendedSupport": {
+        "evaluated": true,
+        "until": "2015-08-30"
+      }
+    },
+    {
+      "apiID": "sles",
+      "osReleaseID": "sled",
+      "cycle": "10.3",
+      "lts": {
+        "evaluated": false
+      },
+      "releaseDate": "2009-10-12",
+      "eol": {
+        "evaluated": true,
+        "until": "2011-10-11"
+      },
+      "latest": "10.3",
+      "latestReleaseDate": "2009-10-12",
+      "extendedSupport": {
+        "evaluated": true,
+        "until": "2014-10-31"
+      }
+    },
+    {
+      "apiID": "sles",
+      "osReleaseID": "sled",
+      "cycle": "11",
+      "lts": {
+        "evaluated": false
+      },
+      "releaseDate": "2009-03-24",
+      "eol": {
+        "evaluated": true,
+        "until": "2010-12-31"
+      },
+      "latest": "11.4",
+      "latestReleaseDate": "2015-07-15",
+      "extendedSupport": {
+        "evaluated": true,
+        "until": "2010-12-31"
+      }
+    },
+    {
+      "apiID": "sles",
+      "osReleaseID": "sled",
+      "cycle": "10.2",
+      "lts": {
+        "evaluated": false
+      },
+      "releaseDate": "2008-05-19",
+      "eol": {
+        "evaluated": true,
+        "until": "2010-04-11"
+      },
+      "latest": "10.2",
+      "latestReleaseDate": "2008-05-19",
+      "extendedSupport": {
+        "evaluated": true,
+        "until": "2013-04-10"
+      }
+    },
+    {
+      "apiID": "sles",
+      "osReleaseID": "sled",
+      "cycle": "10.1",
+      "lts": {
+        "evaluated": false
+      },
+      "releaseDate": "2007-06-18",
+      "eol": {
+        "evaluated": true,
+        "until": "2008-11-30"
+      },
+      "latest": "10.1",
+      "latestReleaseDate": "2007-06-18",
+      "extendedSupport": {
+        "evaluated": true,
+        "until": "2010-12-31"
+      }
+    },
+    {
+      "apiID": "sles",
+      "osReleaseID": "sled",
+      "cycle": "10",
+      "lts": {
+        "evaluated": false
+      },
+      "releaseDate": "2006-07-17",
+      "eol": {
+        "evaluated": true,
+        "until": "2007-12-31"
+      },
+      "latest": "10.4",
+      "latestReleaseDate": "2011-04-12",
+      "extendedSupport": {
+        "evaluated": true,
+        "until": "2007-12-31"
+      }
+    }
+  ],
+  "sles": [
+    {
+      "apiID": "sles",
+      "osReleaseID": "sles",
+      "cycle": "15.6",
+      "lts": {
+        "evaluated": false
+      },
+      "releaseDate": "2024-06-26",
+      "eol": {
+        "evaluated": false
+      },
+      "latest": "15.6",
+      "latestReleaseDate": "2024-06-26",
+      "extendedSupport": {
+        "evaluated": true
+      }
+    },
+    {
+      "apiID": "sles",
+      "osReleaseID": "sles",
+      "cycle": "15.5",
+      "lts": {
+        "evaluated": false
+      },
+      "releaseDate": "2023-06-20",
+      "eol": {
+        "evaluated": true,
+        "until": "2024-12-31"
+      },
+      "latest": "15.5",
+      "latestReleaseDate": "2023-06-20",
+      "extendedSupport": {
+        "evaluated": true,
+        "until": "2027-12-31"
+      }
+    },
+    {
+      "apiID": "sles",
+      "osReleaseID": "sles",
+      "cycle": "15.4",
+      "lts": {
+        "evaluated": false
+      },
+      "releaseDate": "2022-06-21",
+      "eol": {
+        "evaluated": true,
+        "until": "2023-12-31"
+      },
+      "latest": "15.4",
+      "latestReleaseDate": "2022-06-21",
+      "extendedSupport": {
+        "evaluated": true,
+        "until": "2026-12-31"
+      }
+    },
+    {
+      "apiID": "sles",
+      "osReleaseID": "sles",
+      "cycle": "15.3",
+      "lts": {
+        "evaluated": false
+      },
+      "releaseDate": "2021-06-22",
+      "eol": {
+        "evaluated": true,
+        "until": "2022-12-31"
+      },
+      "latest": "15.3",
+      "latestReleaseDate": "2021-06-22",
+      "extendedSupport": {
+        "evaluated": true,
+        "until": "2025-12-31"
+      }
+    },
+    {
+      "apiID": "sles",
+      "osReleaseID": "sles",
+      "cycle": "15.2",
+      "lts": {
+        "evaluated": false
+      },
+      "releaseDate": "2020-07-21",
+      "eol": {
+        "evaluated": true,
+        "until": "2021-12-31"
+      },
+      "latest": "15.2",
+      "latestReleaseDate": "2020-07-21",
+      "extendedSupport": {
+        "evaluated": true,
+        "until": "2024-12-31"
+      }
+    },
+    {
+      "apiID": "sles",
+      "osReleaseID": "sles",
+      "cycle": "12.5",
+      "lts": {
+        "evaluated": false
+      },
+      "releaseDate": "2019-12-09",
+      "eol": {
+        "evaluated": true,
+        "until": "2024-10-31"
+      },
+      "latest": "12.5",
+      "latestReleaseDate": "2019-12-09",
+      "extendedSupport": {
+        "evaluated": true,
+        "until": "2027-10-31"
+      }
+    },
+    {
+      "apiID": "sles",
+      "osReleaseID": "sles",
+      "cycle": "15.1",
+      "lts": {
+        "evaluated": false
+      },
+      "releaseDate": "2019-06-24",
+      "eol": {
+        "evaluated": true,
+        "until": "2021-01-31"
+      },
+      "latest": "15.1",
+      "latestReleaseDate": "2019-06-24",
+      "extendedSupport": {
+        "evaluated": true,
+        "until": "2024-01-31"
+      }
+    },
+    {
+      "apiID": "sles",
+      "osReleaseID": "sles",
+      "cycle": "12.4",
+      "lts": {
+        "evaluated": false
+      },
+      "releaseDate": "2018-12-12",
+      "eol": {
+        "evaluated": true,
+        "until": "2020-06-30"
+      },
+      "latest": "12.4",
+      "latestReleaseDate": "2018-12-12",
+      "extendedSupport": {
+        "evaluated": true,
+        "until": "2023-06-30"
+      }
+    },
+    {
+      "apiID": "sles",
+      "osReleaseID": "sles",
+      "cycle": "15",
+      "lts": {
+        "evaluated": false
+      },
+      "releaseDate": "2018-07-16",
+      "eol": {
+        "evaluated": true,
+        "until": "2019-12-31"
+      },
+      "latest": "15.5",
+      "latestReleaseDate": "2023-06-20",
+      "extendedSupport": {
+        "evaluated": true,
+        "until": "2022-12-31"
+      }
+    },
+    {
+      "apiID": "sles",
+      "osReleaseID": "sles",
+      "cycle": "12.3",
+      "lts": {
+        "evaluated": false
+      },
+      "releaseDate": "2017-09-07",
+      "eol": {
+        "evaluated": true,
+        "until": "2019-06-30"
+      },
+      "latest": "12.3",
+      "latestReleaseDate": "2017-09-07",
+      "extendedSupport": {
+        "evaluated": true,
+        "until": "2022-06-30"
+      }
+    },
+    {
+      "apiID": "sles",
+      "osReleaseID": "sles",
+      "cycle": "12.2",
+      "lts": {
+        "evaluated": false
+      },
+      "releaseDate": "2016-11-08",
+      "eol": {
+        "evaluated": true,
+        "until": "2018-03-31"
+      },
+      "latest": "12.2",
+      "latestReleaseDate": "2016-11-08",
+      "extendedSupport": {
+        "evaluated": true,
+        "until": "2021-03-31"
+      }
+    },
+    {
+      "apiID": "sles",
+      "osReleaseID": "sles",
+      "cycle": "12.1",
+      "lts": {
+        "evaluated": false
+      },
+      "releaseDate": "2015-12-15",
+      "eol": {
+        "evaluated": true,
+        "until": "2017-05-31"
+      },
+      "latest": "12.1",
+      "latestReleaseDate": "2015-12-15",
+      "extendedSupport": {
+        "evaluated": true,
+        "until": "2020-05-31"
+      }
+    },
+    {
+      "apiID": "sles",
+      "osReleaseID": "sles",
+      "cycle": "11.4",
+      "lts": {
+        "evaluated": false
+      },
+      "releaseDate": "2015-07-15",
+      "eol": {
+        "evaluated": true,
+        "until": "2019-03-31"
+      },
+      "latest": "11.4",
+      "latestReleaseDate": "2015-07-15",
+      "extendedSupport": {
+        "evaluated": true,
+        "until": "2022-03-31"
+      }
+    },
+    {
+      "apiID": "sles",
+      "osReleaseID": "sles",
+      "cycle": "12",
+      "lts": {
+        "evaluated": false
+      },
+      "releaseDate": "2014-10-27",
+      "eol": {
+        "evaluated": true,
+        "until": "2016-06-30"
+      },
+      "latest": "12.5",
+      "latestReleaseDate": "2019-12-09",
+      "extendedSupport": {
+        "evaluated": true,
+        "until": "2019-07-01"
+      }
+    },
+    {
+      "apiID": "sles",
+      "osReleaseID": "sles",
+      "cycle": "11.3",
+      "lts": {
+        "evaluated": false
+      },
+      "releaseDate": "2013-07-01",
+      "eol": {
+        "evaluated": true,
+        "until": "2016-01-31"
+      },
+      "latest": "11.3",
+      "latestReleaseDate": "2013-07-01",
+      "extendedSupport": {
+        "evaluated": true,
+        "until": "2019-01-30"
+      }
+    },
+    {
+      "apiID": "sles",
+      "osReleaseID": "sles",
+      "cycle": "11.2",
+      "lts": {
+        "evaluated": false
+      },
+      "releaseDate": "2012-02-29",
+      "eol": {
+        "evaluated": true,
+        "until": "2014-01-31"
+      },
+      "latest": "11.2",
+      "latestReleaseDate": "2012-02-29",
+      "extendedSupport": {
+        "evaluated": true,
+        "until": "2017-01-30"
+      }
+    },
+    {
+      "apiID": "sles",
+      "osReleaseID": "sles",
+      "cycle": "10.4",
+      "lts": {
+        "evaluated": false
+      },
+      "releaseDate": "2011-04-12",
+      "eol": {
+        "evaluated": true,
+        "until": "2013-07-31"
+      },
+      "latest": "10.4",
+      "latestReleaseDate": "2011-04-12",
+      "extendedSupport": {
+        "evaluated": true,
+        "until": "2016-07-30"
+      }
+    },
+    {
+      "apiID": "sles",
+      "osReleaseID": "sles",
+      "cycle": "11.1",
+      "lts": {
+        "evaluated": false
+      },
+      "releaseDate": "2010-06-02",
+      "eol": {
+        "evaluated": true,
+        "until": "2012-08-31"
+      },
+      "latest": "11.1",
+      "latestReleaseDate": "2010-06-02",
+      "extendedSupport": {
+        "evaluated": true,
+        "until": "2015-08-30"
+      }
+    },
+    {
+      "apiID": "sles",
+      "osReleaseID": "sles",
+      "cycle": "10.3",
+      "lts": {
+        "evaluated": false
+      },
+      "releaseDate": "2009-10-12",
+      "eol": {
+        "evaluated": true,
+        "until": "2011-10-11"
+      },
+      "latest": "10.3",
+      "latestReleaseDate": "2009-10-12",
+      "extendedSupport": {
+        "evaluated": true,
+        "until": "2014-10-31"
+      }
+    },
+    {
+      "apiID": "sles",
+      "osReleaseID": "sles",
+      "cycle": "11",
+      "lts": {
+        "evaluated": false
+      },
+      "releaseDate": "2009-03-24",
+      "eol": {
+        "evaluated": true,
+        "until": "2010-12-31"
+      },
+      "latest": "11.4",
+      "latestReleaseDate": "2015-07-15",
+      "extendedSupport": {
+        "evaluated": true,
+        "until": "2010-12-31"
+      }
+    },
+    {
+      "apiID": "sles",
+      "osReleaseID": "sles",
+      "cycle": "10.2",
+      "lts": {
+        "evaluated": false
+      },
+      "releaseDate": "2008-05-19",
+      "eol": {
+        "evaluated": true,
+        "until": "2010-04-11"
+      },
+      "latest": "10.2",
+      "latestReleaseDate": "2008-05-19",
+      "extendedSupport": {
+        "evaluated": true,
+        "until": "2013-04-10"
+      }
+    },
+    {
+      "apiID": "sles",
+      "osReleaseID": "sles",
+      "cycle": "10.1",
+      "lts": {
+        "evaluated": false
+      },
+      "releaseDate": "2007-06-18",
+      "eol": {
+        "evaluated": true,
+        "until": "2008-11-30"
+      },
+      "latest": "10.1",
+      "latestReleaseDate": "2007-06-18",
+      "extendedSupport": {
+        "evaluated": true,
+        "until": "2010-12-31"
+      }
+    },
+    {
+      "apiID": "sles",
+      "osReleaseID": "sles",
+      "cycle": "10",
+      "lts": {
+        "evaluated": false
+      },
+      "releaseDate": "2006-07-17",
+      "eol": {
+        "evaluated": true,
+        "until": "2007-12-31"
+      },
+      "latest": "10.4",
+      "latestReleaseDate": "2011-04-12",
+      "extendedSupport": {
+        "evaluated": true,
+        "until": "2007-12-31"
+      }
+    }
+  ],
+  "solaris": [
+    {
+      "apiID": "solaris",
+      "osReleaseID": "solaris",
+      "cycle": "11.4",
+      "lts": {
+        "evaluated": false
+      },
+      "releaseDate": "2018-08-28",
+      "eol": {
+        "evaluated": true,
+        "until": "2031-11-01"
+      },
+      "extendedSupport": {
+        "evaluated": true,
+        "until": "2037-11-01"
+      },
+      "link": "https://docs.oracle.com/en/operating-systems/solaris/oracle-solaris/"
+    },
+    {
+      "apiID": "solaris",
+      "osReleaseID": "solaris",
+      "cycle": "11.3",
+      "lts": {
+        "evaluated": false
+      },
+      "releaseDate": "2015-10-26",
+      "eol": {
+        "evaluated": true,
+        "until": "2021-01-01"
+      },
+      "extendedSupport": {
+        "evaluated": true,
+        "until": "2027-01-01"
+      },
+      "link": "https://docs.oracle.com/cd/E53394_01/index.html"
+    },
+    {
+      "apiID": "solaris",
+      "osReleaseID": "solaris",
+      "cycle": "11.2",
+      "lts": {
+        "evaluated": false
+      },
+      "releaseDate": "2014-04-29",
+      "eol": {
+        "evaluated": true
+      },
+      "extendedSupport": {
+        "evaluated": false
+      },
+      "link": "https://docs.oracle.com/cd/E36784_01/index.html"
+    },
+    {
+      "apiID": "solaris",
+      "osReleaseID": "solaris",
+      "cycle": "11.1",
+      "lts": {
+        "evaluated": false
+      },
+      "releaseDate": "2012-10-03",
+      "eol": {
+        "evaluated": true
+      },
+      "extendedSupport": {
+        "evaluated": false
+      },
+      "link": "https://docs.oracle.com/cd/E26502_01/index.html"
+    },
+    {
+      "apiID": "solaris",
+      "osReleaseID": "solaris",
+      "cycle": "11",
+      "lts": {
+        "evaluated": false
+      },
+      "releaseDate": "2011-11-09",
+      "eol": {
+        "evaluated": true
+      },
+      "extendedSupport": {
+        "evaluated": false
+      },
+      "link": "https://docs.oracle.com/cd/E23824_01/index.html"
+    },
+    {
+      "apiID": "solaris",
+      "osReleaseID": "solaris",
+      "cycle": "10",
+      "lts": {
+        "evaluated": false
+      },
+      "releaseDate": "2005-01-31",
+      "eol": {
+        "evaluated": true,
+        "until": "2018-01-01"
+      },
+      "extendedSupport": {
+        "evaluated": true,
+        "until": "2027-01-01"
+      },
+      "link": "https://docs.oracle.com/cd/F24622_01/index.html"
+    },
+    {
+      "apiID": "solaris",
+      "osReleaseID": "solaris",
+      "cycle": "9",
+      "lts": {
+        "evaluated": false
+      },
+      "releaseDate": "2002-05-28",
+      "eol": {
+        "evaluated": true,
+        "until": "2011-10-01"
+      },
+      "extendedSupport": {
+        "evaluated": true,
+        "until": "2014-10-01"
+      },
+      "link": "https://docs.oracle.com/cd/E19683-01/index.html"
+    },
+    {
+      "apiID": "solaris",
+      "osReleaseID": "solaris",
+      "cycle": "8",
+      "lts": {
+        "evaluated": false
+      },
+      "releaseDate": "2000-02-01",
+      "eol": {
+        "evaluated": true,
+        "until": "2009-03-01"
+      },
+      "extendedSupport": {
+        "evaluated": true,
+        "until": "2012-03-01"
+      },
+      "link": "https://docs.oracle.com/cd/E19455-01/index.html"
+    }
+  ],
+  "steamos": [
+    {
+      "apiID": "steamos",
+      "osReleaseID": "steamos",
+      "cycle": "3",
+      "codename": "holo",
+      "lts": {
+        "evaluated": false
+      },
+      "releaseDate": "2022-03-01",
+      "eol": {
+        "evaluated": false
+      },
+      "discontinued": {
+        "evaluated": false
+      }
+    },
+    {
+      "apiID": "steamos",
+      "osReleaseID": "steamos",
+      "cycle": "2",
+      "codename": "brewmaster",
+      "lts": {
+        "evaluated": false
+      },
+      "releaseDate": "2015-11-01",
+      "eol": {
+        "evaluated": true,
+        "until": "2019-06-30"
+      },
+      "discontinued": {
+        "evaluated": true
+      }
+    },
+    {
+      "apiID": "steamos",
+      "osReleaseID": "steamos",
+      "cycle": "1",
+      "codename": "alchemist",
+      "lts": {
+        "evaluated": false
+      },
+      "releaseDate": "2013-12-01",
+      "eol": {
+        "evaluated": true,
+        "until": "2011-11-02"
+      },
+      "discontinued": {
+        "evaluated": true
+      }
+    }
+  ],
+  "tails": [
+    {
+      "apiID": "tails",
+      "osReleaseID": "tails",
+      "cycle": "6",
+      "lts": {
+        "evaluated": false
+      },
+      "releaseDate": "2024-02-27",
+      "eol": {
+        "evaluated": false
+      },
+      "latest": "6.8",
+      "latestReleaseDate": "2024-10-08"
+    },
+    {
+      "apiID": "tails",
+      "osReleaseID": "tails",
+      "cycle": "5",
+      "lts": {
+        "evaluated": false
+      },
+      "releaseDate": "2022-05-03",
+      "eol": {
+        "evaluated": true,
+        "until": "2024-02-27"
+      },
+      "latest": "5.20",
+      "latestReleaseDate": "2023-11-28"
+    },
+    {
+      "apiID": "tails",
+      "osReleaseID": "tails",
+      "cycle": "4",
+      "lts": {
+        "evaluated": false
+      },
+      "releaseDate": "2019-10-22",
+      "eol": {
+        "evaluated": true,
+        "until": "2022-05-02"
+      },
+      "latest": "4.29",
+      "latestReleaseDate": "2022-04-04"
+    },
+    {
+      "apiID": "tails",
+      "osReleaseID": "tails",
+      "cycle": "3",
+      "lts": {
+        "evaluated": false
+      },
+      "releaseDate": "2017-06-13",
+      "eol": {
+        "evaluated": true,
+        "until": "2019-10-21"
+      },
+      "latest": "3.16",
+      "latestReleaseDate": "2019-09-03"
+    },
+    {
+      "apiID": "tails",
+      "osReleaseID": "tails",
+      "cycle": "2",
+      "lts": {
+        "evaluated": false
+      },
+      "releaseDate": "2016-01-27",
+      "eol": {
+        "evaluated": true,
+        "until": "2017-07-10"
+      },
+      "latest": "2.12",
+      "latestReleaseDate": "2017-04-18"
+    },
+    {
+      "apiID": "tails",
+      "osReleaseID": "tails",
+      "cycle": "1",
+      "lts": {
+        "evaluated": false
+      },
+      "releaseDate": "2014-04-29",
+      "eol": {
+        "evaluated": true,
+        "until": "2016-01-25"
+      },
+      "latest": "1.8.2",
+      "latestReleaseDate": "2016-01-09"
+    }
+  ],
+  "ubuntu": [
+    {
+      "apiID": "ubuntu",
+      "osReleaseID": "ubuntu",
+      "cycle": "24.10",
+      "codename": "Oracular Oriole",
+      "lts": {
+        "evaluated": false
+      },
+      "releaseDate": "2024-10-10",
+      "eol": {
+        "evaluated": true,
+        "until": "2025-07-11"
+      },
+      "latest": "24.10",
+      "latestReleaseDate": "2024-10-10",
+      "support": {
+        "evaluated": true,
+        "until": "2025-07-11"
+      },
+      "extendedSupport": {
+        "evaluated": false
+      }
+    },
+    {
+      "apiID": "ubuntu",
+      "osReleaseID": "ubuntu",
+      "cycle": "24.04",
+      "codename": "Noble Numbat",
+      "lts": {
+        "evaluated": true
+      },
+      "releaseDate": "2024-04-25",
+      "eol": {
+        "evaluated": true,
+        "until": "2029-04-25"
+      },
+      "latest": "24.04.1",
+      "latestReleaseDate": "2024-08-29",
+      "support": {
+        "evaluated": true,
+        "until": "2029-04-25"
+      },
+      "extendedSupport": {
+        "evaluated": true,
+        "until": "2036-04-25"
+      }
+    },
+    {
+      "apiID": "ubuntu",
+      "osReleaseID": "ubuntu",
+      "cycle": "23.10",
+      "codename": "Mantic Minotaur",
+      "lts": {
+        "evaluated": false
+      },
+      "releaseDate": "2023-10-12",
+      "eol": {
+        "evaluated": true,
+        "until": "2024-07-11"
+      },
+      "latest": "23.10",
+      "latestReleaseDate": "2023-10-12",
+      "support": {
+        "evaluated": true,
+        "until": "2024-07-11"
+      },
+      "extendedSupport": {
+        "evaluated": false
+      }
+    },
+    {
+      "apiID": "ubuntu",
+      "osReleaseID": "ubuntu",
+      "cycle": "23.04",
+      "codename": "Lunar Lobster",
+      "lts": {
+        "evaluated": false
+      },
+      "releaseDate": "2023-04-20",
+      "eol": {
+        "evaluated": true,
+        "until": "2024-01-20"
+      },
+      "latest": "23.04",
+      "latestReleaseDate": "2023-04-20",
+      "support": {
+        "evaluated": true,
+        "until": "2024-01-20"
+      },
+      "extendedSupport": {
+        "evaluated": false
+      }
+    },
+    {
+      "apiID": "ubuntu",
+      "osReleaseID": "ubuntu",
+      "cycle": "22.10",
+      "codename": "Kinetic Kudu",
+      "lts": {
+        "evaluated": false
+      },
+      "releaseDate": "2022-10-20",
+      "eol": {
+        "evaluated": true,
+        "until": "2023-07-20"
+      },
+      "latest": "22.10",
+      "latestReleaseDate": "2022-10-20",
+      "support": {
+        "evaluated": true,
+        "until": "2023-07-20"
+      },
+      "extendedSupport": {
+        "evaluated": false
+      }
+    },
+    {
+      "apiID": "ubuntu",
+      "osReleaseID": "ubuntu",
+      "cycle": "22.04",
+      "codename": "Jammy Jellyfish",
+      "lts": {
+        "evaluated": true
+      },
+      "releaseDate": "2022-04-21",
+      "eol": {
+        "evaluated": true,
+        "until": "2027-04-01"
+      },
+      "latest": "22.04.5",
+      "latestReleaseDate": "2024-09-12",
+      "support": {
+        "evaluated": true,
+        "until": "2024-09-30"
+      },
+      "extendedSupport": {
+        "evaluated": true,
+        "until": "2032-04-09"
+      }
+    },
+    {
+      "apiID": "ubuntu",
+      "osReleaseID": "ubuntu",
+      "cycle": "21.10",
+      "codename": "Impish Indri",
+      "lts": {
+        "evaluated": false
+      },
+      "releaseDate": "2021-10-14",
+      "eol": {
+        "evaluated": true,
+        "until": "2022-07-14"
+      },
+      "latest": "21.10",
+      "latestReleaseDate": "2021-10-14",
+      "support": {
+        "evaluated": true,
+        "until": "2022-07-14"
+      },
+      "extendedSupport": {
+        "evaluated": false
+      }
+    },
+    {
+      "apiID": "ubuntu",
+      "osReleaseID": "ubuntu",
+      "cycle": "21.04",
+      "codename": "Hirsute Hippo",
+      "lts": {
+        "evaluated": false
+      },
+      "releaseDate": "2021-04-22",
+      "eol": {
+        "evaluated": true,
+        "until": "2022-01-20"
+      },
+      "latest": "21.04",
+      "latestReleaseDate": "2021-04-22",
+      "support": {
+        "evaluated": true,
+        "until": "2022-01-20"
+      },
+      "extendedSupport": {
+        "evaluated": false
+      }
+    },
+    {
+      "apiID": "ubuntu",
+      "osReleaseID": "ubuntu",
+      "cycle": "20.10",
+      "codename": "Groovy Gorilla",
+      "lts": {
+        "evaluated": false
+      },
+      "releaseDate": "2020-10-22",
+      "eol": {
+        "evaluated": true,
+        "until": "2021-07-22"
+      },
+      "latest": "20.10",
+      "latestReleaseDate": "2020-10-22",
+      "support": {
+        "evaluated": true,
+        "until": "2021-07-22"
+      },
+      "extendedSupport": {
+        "evaluated": false
+      }
+    },
+    {
+      "apiID": "ubuntu",
+      "osReleaseID": "ubuntu",
+      "cycle": "20.04",
+      "codename": "Focal Fossa",
+      "lts": {
+        "evaluated": true
+      },
+      "releaseDate": "2020-04-23",
+      "eol": {
+        "evaluated": true,
+        "until": "2025-04-02"
+      },
+      "latest": "20.04.6",
+      "latestReleaseDate": "2023-03-23",
+      "support": {
+        "evaluated": true,
+        "until": "2022-10-01"
+      },
+      "extendedSupport": {
+        "evaluated": true,
+        "until": "2030-04-02"
+      }
+    },
+    {
+      "apiID": "ubuntu",
+      "osReleaseID": "ubuntu",
+      "cycle": "19.10",
+      "codename": "Eoan Ermine",
+      "lts": {
+        "evaluated": false
+      },
+      "releaseDate": "2019-10-17",
+      "eol": {
+        "evaluated": true,
+        "until": "2020-07-06"
+      },
+      "latest": "19.10",
+      "latestReleaseDate": "2019-10-17",
+      "support": {
+        "evaluated": true,
+        "until": "2020-07-06"
+      },
+      "extendedSupport": {
+        "evaluated": false
+      }
+    },
+    {
+      "apiID": "ubuntu",
+      "osReleaseID": "ubuntu",
+      "cycle": "19.04",
+      "codename": "Disco Dingo",
+      "lts": {
+        "evaluated": false
+      },
+      "releaseDate": "2019-04-18",
+      "eol": {
+        "evaluated": true,
+        "until": "2020-01-23"
+      },
+      "latest": "19.04",
+      "latestReleaseDate": "2019-04-18",
+      "support": {
+        "evaluated": true,
+        "until": "2020-01-23"
+      },
+      "extendedSupport": {
+        "evaluated": false
+      }
+    },
+    {
+      "apiID": "ubuntu",
+      "osReleaseID": "ubuntu",
+      "cycle": "18.10",
+      "codename": "Cosmic Cuttlefish",
+      "lts": {
+        "evaluated": false
+      },
+      "releaseDate": "2018-10-18",
+      "eol": {
+        "evaluated": true,
+        "until": "2019-07-18"
+      },
+      "latest": "18.10",
+      "latestReleaseDate": "2018-10-18",
+      "support": {
+        "evaluated": true,
+        "until": "2019-07-18"
+      },
+      "extendedSupport": {
+        "evaluated": false
+      }
+    },
+    {
+      "apiID": "ubuntu",
+      "osReleaseID": "ubuntu",
+      "cycle": "18.04",
+      "codename": "Bionic Beaver",
+      "lts": {
+        "evaluated": true
+      },
+      "releaseDate": "2018-04-26",
+      "eol": {
+        "evaluated": true,
+        "until": "2023-05-31"
+      },
+      "latest": "18.04.6",
+      "latestReleaseDate": "2021-09-17",
+      "support": {
+        "evaluated": true,
+        "until": "2023-05-31"
+      },
+      "extendedSupport": {
+        "evaluated": true,
+        "until": "2028-04-01"
+      }
+    },
+    {
+      "apiID": "ubuntu",
+      "osReleaseID": "ubuntu",
+      "cycle": "17.10",
+      "codename": "Artful Aardvark",
+      "lts": {
+        "evaluated": false
+      },
+      "releaseDate": "2017-10-19",
+      "eol": {
+        "evaluated": true,
+        "until": "2018-07-19"
+      },
+      "latest": "17.10",
+      "latestReleaseDate": "2017-10-19",
+      "support": {
+        "evaluated": true,
+        "until": "2018-07-19"
+      },
+      "extendedSupport": {
+        "evaluated": false
+      }
+    },
+    {
+      "apiID": "ubuntu",
+      "osReleaseID": "ubuntu",
+      "cycle": "17.04",
+      "codename": "Zesty Zapus",
+      "lts": {
+        "evaluated": false
+      },
+      "releaseDate": "2017-04-13",
+      "eol": {
+        "evaluated": true,
+        "until": "2018-01-13"
+      },
+      "latest": "17.04",
+      "latestReleaseDate": "2017-04-13",
+      "support": {
+        "evaluated": true,
+        "until": "2018-01-13"
+      },
+      "extendedSupport": {
+        "evaluated": false
+      }
+    },
+    {
+      "apiID": "ubuntu",
+      "osReleaseID": "ubuntu",
+      "cycle": "16.10",
+      "codename": "Yakkety Yak",
+      "lts": {
+        "evaluated": false
+      },
+      "releaseDate": "2016-10-13",
+      "eol": {
+        "evaluated": true,
+        "until": "2017-07-20"
+      },
+      "latest": "16.10",
+      "latestReleaseDate": "2016-10-13",
+      "support": {
+        "evaluated": true,
+        "until": "2017-07-20"
+      },
+      "extendedSupport": {
+        "evaluated": false
+      }
+    },
+    {
+      "apiID": "ubuntu",
+      "osReleaseID": "ubuntu",
+      "cycle": "16.04",
+      "codename": "Xenial Xerus",
+      "lts": {
+        "evaluated": true
+      },
+      "releaseDate": "2016-04-21",
+      "eol": {
+        "evaluated": true,
+        "until": "2021-04-02"
+      },
+      "latest": "16.04.7",
+      "latestReleaseDate": "2020-08-13",
+      "support": {
+        "evaluated": true,
+        "until": "2021-04-02"
+      },
+      "extendedSupport": {
+        "evaluated": true,
+        "until": "2026-04-02"
+      }
+    },
+    {
+      "apiID": "ubuntu",
+      "osReleaseID": "ubuntu",
+      "cycle": "15.10",
+      "codename": "Wily Werewolf",
+      "lts": {
+        "evaluated": false
+      },
+      "releaseDate": "2015-10-22",
+      "eol": {
+        "evaluated": true,
+        "until": "2016-07-28"
+      },
+      "latest": "15.10",
+      "latestReleaseDate": "2015-10-22",
+      "support": {
+        "evaluated": true,
+        "until": "2016-07-28"
+      },
+      "extendedSupport": {
+        "evaluated": false
+      }
+    },
+    {
+      "apiID": "ubuntu",
+      "osReleaseID": "ubuntu",
+      "cycle": "15.04",
+      "codename": "Vivid Vervet",
+      "lts": {
+        "evaluated": false
+      },
+      "releaseDate": "2015-04-23",
+      "eol": {
+        "evaluated": true,
+        "until": "2016-02-04"
+      },
+      "latest": "15.04",
+      "latestReleaseDate": "2015-04-23",
+      "support": {
+        "evaluated": true,
+        "until": "2016-02-04"
+      },
+      "extendedSupport": {
+        "evaluated": false
+      }
+    },
+    {
+      "apiID": "ubuntu",
+      "osReleaseID": "ubuntu",
+      "cycle": "14.10",
+      "codename": "Utopic Unicorn",
+      "lts": {
+        "evaluated": false
+      },
+      "releaseDate": "2014-10-23",
+      "eol": {
+        "evaluated": true,
+        "until": "2015-07-23"
+      },
+      "latest": "14.10",
+      "latestReleaseDate": "2014-10-23",
+      "support": {
+        "evaluated": true,
+        "until": "2015-07-23"
+      },
+      "extendedSupport": {
+        "evaluated": false
+      }
+    },
+    {
+      "apiID": "ubuntu",
+      "osReleaseID": "ubuntu",
+      "cycle": "14.04",
+      "codename": "Trusty Tahr",
+      "lts": {
+        "evaluated": true
+      },
+      "releaseDate": "2014-04-17",
+      "eol": {
+        "evaluated": true,
+        "until": "2019-04-02"
+      },
+      "latest": "14.04.6",
+      "latestReleaseDate": "2019-03-07",
+      "support": {
+        "evaluated": true,
+        "until": "2019-04-02"
+      },
+      "extendedSupport": {
+        "evaluated": true,
+        "until": "2024-04-02"
+      }
+    },
+    {
+      "apiID": "ubuntu",
+      "osReleaseID": "ubuntu",
+      "cycle": "13.10",
+      "codename": "Saucy Salamander",
+      "lts": {
+        "evaluated": false
+      },
+      "releaseDate": "2013-10-17",
+      "eol": {
+        "evaluated": true,
+        "until": "2014-07-17"
+      },
+      "latest": "13.10",
+      "latestReleaseDate": "2013-10-17",
+      "support": {
+        "evaluated": true,
+        "until": "2014-07-17"
+      },
+      "extendedSupport": {
+        "evaluated": false
+      }
+    },
+    {
+      "apiID": "ubuntu",
+      "osReleaseID": "ubuntu",
+      "cycle": "13.04",
+      "codename": "Raring Ringtail",
+      "lts": {
+        "evaluated": false
+      },
+      "releaseDate": "2013-04-25",
+      "eol": {
+        "evaluated": true,
+        "until": "2014-01-27"
+      },
+      "latest": "13.04",
+      "latestReleaseDate": "2013-04-25",
+      "support": {
+        "evaluated": true,
+        "until": "2014-01-27"
+      },
+      "extendedSupport": {
+        "evaluated": false
+      }
+    },
+    {
+      "apiID": "ubuntu",
+      "osReleaseID": "ubuntu",
+      "cycle": "12.10",
+      "codename": "Quantal Quetzal",
+      "lts": {
+        "evaluated": false
+      },
+      "releaseDate": "2012-10-18",
+      "eol": {
+        "evaluated": true,
+        "until": "2014-05-16"
+      },
+      "latest": "12.10",
+      "latestReleaseDate": "2012-10-18",
+      "support": {
+        "evaluated": true,
+        "until": "2014-05-16"
+      },
+      "extendedSupport": {
+        "evaluated": false
+      }
+    },
+    {
+      "apiID": "ubuntu",
+      "osReleaseID": "ubuntu",
+      "cycle": "12.04",
+      "codename": "Precise Pangolin",
+      "lts": {
+        "evaluated": true
+      },
+      "releaseDate": "2012-04-26",
+      "eol": {
+        "evaluated": true,
+        "until": "2017-04-28"
+      },
+      "latest": "12.04.5",
+      "latestReleaseDate": "2014-08-08",
+      "support": {
+        "evaluated": true,
+        "until": "2017-04-28"
+      },
+      "extendedSupport": {
+        "evaluated": true,
+        "until": "2019-04-26"
+      }
+    },
+    {
+      "apiID": "ubuntu",
+      "osReleaseID": "ubuntu",
+      "cycle": "11.10",
+      "codename": "Oneiric Ocelot",
+      "lts": {
+        "evaluated": false
+      },
+      "releaseDate": "2011-10-13",
+      "eol": {
+        "evaluated": true,
+        "until": "2013-05-09"
+      },
+      "latest": "11.10",
+      "latestReleaseDate": "2011-10-13",
+      "support": {
+        "evaluated": true,
+        "until": "2013-05-09"
+      },
+      "extendedSupport": {
+        "evaluated": false
+      }
+    },
+    {
+      "apiID": "ubuntu",
+      "osReleaseID": "ubuntu",
+      "cycle": "11.04",
+      "codename": "Natty Narwhal",
+      "lts": {
+        "evaluated": false
+      },
+      "releaseDate": "2011-04-28",
+      "eol": {
+        "evaluated": true,
+        "until": "2012-10-28"
+      },
+      "latest": "11.04",
+      "latestReleaseDate": "2011-04-28",
+      "support": {
+        "evaluated": true,
+        "until": "2012-10-28"
+      },
+      "extendedSupport": {
+        "evaluated": false
+      }
+    },
+    {
+      "apiID": "ubuntu",
+      "osReleaseID": "ubuntu",
+      "cycle": "10.10",
+      "codename": "Maverick Meerkat",
+      "lts": {
+        "evaluated": false
+      },
+      "releaseDate": "2010-10-10",
+      "eol": {
+        "evaluated": true,
+        "until": "2012-04-10"
+      },
+      "latest": "10.10",
+      "latestReleaseDate": "2010-10-10",
+      "support": {
+        "evaluated": true,
+        "until": "2012-04-10"
+      },
+      "extendedSupport": {
+        "evaluated": false
+      }
+    },
+    {
+      "apiID": "ubuntu",
+      "osReleaseID": "ubuntu",
+      "cycle": "10.04",
+      "codename": "Lucid Lynx",
+      "lts": {
+        "evaluated": true
+      },
+      "releaseDate": "2010-04-29",
+      "eol": {
+        "evaluated": true,
+        "until": "2013-05-09"
+      },
+      "latest": "10.04.4",
+      "latestReleaseDate": "2012-02-16",
+      "support": {
+        "evaluated": true,
+        "until": "2013-05-09"
+      },
+      "extendedSupport": {
+        "evaluated": false
+      }
+    },
+    {
+      "apiID": "ubuntu",
+      "osReleaseID": "ubuntu",
+      "cycle": "9.10",
+      "codename": "Karmic Koala",
+      "lts": {
+        "evaluated": false
+      },
+      "releaseDate": "2009-10-29",
+      "eol": {
+        "evaluated": true,
+        "until": "2011-04-30"
+      },
+      "latest": "9.10",
+      "latestReleaseDate": "2009-10-29",
+      "support": {
+        "evaluated": true,
+        "until": "2011-04-30"
+      },
+      "extendedSupport": {
+        "evaluated": false
+      }
+    },
+    {
+      "apiID": "ubuntu",
+      "osReleaseID": "ubuntu",
+      "cycle": "9.04",
+      "codename": "Jaunty Jackalope",
+      "lts": {
+        "evaluated": false
+      },
+      "releaseDate": "2009-04-23",
+      "eol": {
+        "evaluated": true,
+        "until": "2010-10-23"
+      },
+      "latest": "9.04",
+      "latestReleaseDate": "2009-04-23",
+      "support": {
+        "evaluated": true,
+        "until": "2010-10-23"
+      },
+      "extendedSupport": {
+        "evaluated": false
+      }
+    },
+    {
+      "apiID": "ubuntu",
+      "osReleaseID": "ubuntu",
+      "cycle": "8.10",
+      "codename": "Intrepid Ibex",
+      "lts": {
+        "evaluated": false
+      },
+      "releaseDate": "2008-10-30",
+      "eol": {
+        "evaluated": true,
+        "until": "2010-04-30"
+      },
+      "latest": "8.10",
+      "latestReleaseDate": "2008-10-30",
+      "support": {
+        "evaluated": true,
+        "until": "2010-04-30"
+      },
+      "extendedSupport": {
+        "evaluated": false
+      }
+    },
+    {
+      "apiID": "ubuntu",
+      "osReleaseID": "ubuntu",
+      "cycle": "8.04",
+      "codename": "Hardy Heron",
+      "lts": {
+        "evaluated": true
+      },
+      "releaseDate": "2008-04-24",
+      "eol": {
+        "evaluated": true,
+        "until": "2013-05-09"
+      },
+      "latest": "8.04.4",
+      "latestReleaseDate": "2010-01-29",
+      "support": {
+        "evaluated": true,
+        "until": "2013-05-09"
+      },
+      "extendedSupport": {
+        "evaluated": false
+      }
+    },
+    {
+      "apiID": "ubuntu",
+      "osReleaseID": "ubuntu",
+      "cycle": "7.10",
+      "codename": "Gutsy Gibbon",
+      "lts": {
+        "evaluated": false
+      },
+      "releaseDate": "2007-10-18",
+      "eol": {
+        "evaluated": true,
+        "until": "2009-04-18"
+      },
+      "latest": "7.10",
+      "latestReleaseDate": "2007-10-18",
+      "support": {
+        "evaluated": true,
+        "until": "2009-04-18"
+      },
+      "extendedSupport": {
+        "evaluated": false
+      }
+    },
+    {
+      "apiID": "ubuntu",
+      "osReleaseID": "ubuntu",
+      "cycle": "7.04",
+      "codename": "Feisty Fawn",
+      "lts": {
+        "evaluated": false
+      },
+      "releaseDate": "2007-04-19",
+      "eol": {
+        "evaluated": true,
+        "until": "2008-10-19"
+      },
+      "latest": "7.04",
+      "latestReleaseDate": "2007-04-19",
+      "support": {
+        "evaluated": true,
+        "until": "2008-10-19"
+      },
+      "extendedSupport": {
+        "evaluated": false
+      }
+    },
+    {
+      "apiID": "ubuntu",
+      "osReleaseID": "ubuntu",
+      "cycle": "6.10",
+      "codename": "Edgy Eft",
+      "lts": {
+        "evaluated": false
+      },
+      "releaseDate": "2006-10-26",
+      "eol": {
+        "evaluated": true,
+        "until": "2008-04-26"
+      },
+      "latest": "6.10",
+      "latestReleaseDate": "2006-10-26",
+      "support": {
+        "evaluated": true,
+        "until": "2006-10-26"
+      },
+      "extendedSupport": {
+        "evaluated": false
+      }
+    },
+    {
+      "apiID": "ubuntu",
+      "osReleaseID": "ubuntu",
+      "cycle": "6.06",
+      "codename": "Dapper Drake",
+      "lts": {
+        "evaluated": true
+      },
+      "releaseDate": "2006-08-10",
+      "eol": {
+        "evaluated": true,
+        "until": "2011-06-01"
+      },
+      "latest": "6.06.2",
+      "latestReleaseDate": "2008-01-22",
+      "support": {
+        "evaluated": true,
+        "until": "2011-06-01"
+      },
+      "extendedSupport": {
+        "evaluated": false
+      }
+    },
+    {
+      "apiID": "ubuntu",
+      "osReleaseID": "ubuntu",
+      "cycle": "5.10",
+      "codename": "Breezy Badger",
+      "lts": {
+        "evaluated": false
+      },
+      "releaseDate": "2005-10-13",
+      "eol": {
+        "evaluated": true,
+        "until": "2007-04-13"
+      },
+      "latest": "5.10",
+      "latestReleaseDate": "2005-10-13",
+      "support": {
+        "evaluated": true,
+        "until": "2007-04-13"
+      },
+      "extendedSupport": {
+        "evaluated": false
+      }
+    },
+    {
+      "apiID": "ubuntu",
+      "osReleaseID": "ubuntu",
+      "cycle": "5.04",
+      "codename": "Hoary Hedgehog",
+      "lts": {
+        "evaluated": false
+      },
+      "releaseDate": "2005-04-08",
+      "eol": {
+        "evaluated": true,
+        "until": "2006-10-31"
+      },
+      "latest": "5.04",
+      "latestReleaseDate": "2005-04-08",
+      "support": {
+        "evaluated": true,
+        "until": "2006-10-31"
+      },
+      "extendedSupport": {
+        "evaluated": false
+      }
+    },
+    {
+      "apiID": "ubuntu",
+      "osReleaseID": "ubuntu",
+      "cycle": "4.10",
+      "codename": "Warty Warthog",
+      "lts": {
+        "evaluated": false
+      },
+      "releaseDate": "2004-10-20",
+      "eol": {
+        "evaluated": true,
+        "until": "2006-04-30"
+      },
+      "latest": "4.10",
+      "latestReleaseDate": "2004-10-20",
+      "support": {
+        "evaluated": true,
+        "until": "2004-10-26"
+      },
+      "extendedSupport": {
+        "evaluated": false
+      }
+    }
+  ]
+}
